@@ -16,8 +16,7 @@ layout: default
 
 
 
-
-<p>I am an Assistant Professor of Management Science & Engineering and Huazhong Scholar at the School of Management of <a href="https://english.hust.edu.cn/INTERNATIONAL_HUST/Global_Partnership.htm">Huazhong University of Science and Technology</a>. I am the Faculty Director of the Honors Program in Big Data and Analytics of Qiming College. I have previously worked as Data Scientist or Outside Consultant in the industry and academia for Lufax, China Foreign Exchange Trade System & National Interbank Funding Center (CFETS), and some Big Techs in China. </p>
+<p>I am an Assistant Professor of Management Science & Engineering and Huazhong Scholar at the School of Management of <a href="https://english.hust.edu.cn/INTERNATIONAL_HUST/Global_Partnership/2.htm">Huazhong University of Science and Technology</a>. I am the Faculty Director of the Honors Program in Big Data and Analytics of Qiming College. I have previously worked as Data Scientist or Outside Consultant in the industry and academia for <a href="https://www.lufaxholding.com/">Lufax</a>, <a href="https://www.chinamoney.org.cn/english/">China Foreign Exchange Trade System & National Interbank Funding Center (CFETS)</a>, and some <a href="https://en.wikipedia.org/wiki/BATX">Big Techs</a> in China. </p>
 
 <p><br></p>
 
