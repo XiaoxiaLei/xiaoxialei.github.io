@@ -34,8 +34,23 @@ layout: default
 
 <p><br></p>
 
+#### Academic Positions
 
+09/22/2022: *Towards a Machine Learning * is accepted to [WISE'23](https://asplos-conference.org/)!  
+05/23/2022: I will be joining  this summer!  
+09/01/2019: Officially started my PhD.  
+//2024: **I officially graduated from !** 
 
+<p><br></p>
+
+#### Education
+
+09/22/2022: *Towards a Machine Learning * is accepted to [WISE'23](https://asplos-conference.org/)!  
+05/23/2022: I will be joining  this summer!  
+09/01/2019: Officially started my PhD.  
+//2024: **I officially graduated from !**  
+
+<p><br></p>
 
 #### News
 
@@ -45,18 +60,6 @@ layout: default
 //2024: **I officially graduated from !**  
 
 [...see all news](./news)
-
-<p><br></p>
-
-
-#### Media Mentions
-
-09/22/2022: *Towards a Machine Learning * is accepted to [WISE'23](https://asplos-conference.org/)!  
-05/23/2022: I will be joining  this summer!  
-09/01/2019: Officially started my PhD.  
-//2024: **I officially graduated from !**  
-
-[...see all media mentions](./media)
 
 <p><br></p>
 
