@@ -4,7 +4,7 @@ layout: default
 
 <ul class='menu'>
 <li><a href="./">Home</a></li>
-<li><a href="./cv_xiaoxia_lei.pdf">CV</a></li>
+<!-- <li><a href="./cv_xiaoxia_lei.pdf">CV</a></li> -->
 <li><a href="./research.html">Research</a></li>
 <li><a href="./teaching.html">Teaching</a></li>
 <li><a href="./conferences_and_invited_presentations.html">Presentations</a></li>
