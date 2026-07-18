@@ -11,7 +11,7 @@ layout: default
 <li><a href="./service.html">Service</a></li>
 <li><a href="./honours_awards.html">Honours and Awards</a></li>
 <li><a href="./students.html">Students</a></li>
-<li><a href="./miscellaneous.html">Misc.</a></li>
+<li><a href="./miscellaneous.html">Miscellaneous</a></li>
 <!-- <li><a href="./my_failed_projects.html">Failed</a></li> -->
 </ul>
 
