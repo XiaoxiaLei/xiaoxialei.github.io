@@ -63,13 +63,12 @@ layout: default
 <p><br></p>
 
 #### News
-
-09/22/2022: *Towards a Machine Learning * is accepted to [WISE'23](https://asplos-conference.org/)!  
-05/23/2022: I will be joining  this summer!  
-09/01/2019: Officially started my PhD.  
-//2024: **I officially graduated from !**  
+ 
+06/2026: Officially started my career as an Assistant Professor @ HUST.   
 
 [...see all news](./news.md)
+
+
 
 <p><br></p>
 
@@ -83,7 +82,7 @@ layout: default
 </div> -->
 
 
-<p>Copyright © 2023-2023 Xiaoxia Lei. All Rights Reserved</p>
+<p>Copyright © 2023-2026 Xiaoxia Lei. All Rights Reserved</p>
 
 
 <!-- <a href="https://beian.miit.gov.cn/" target="_blank">023012226</a> -->
