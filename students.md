@@ -28,7 +28,7 @@ layout: default
 
 <p><br></p>
 
-<p style="text-align: justify;">I am particularly open to candidates who are interested in interdisciplinary research. Candidates with diverse academic background are welcomed! <br></p>
+<p style="text-align: justify;">I am particularly open to candidates who are interested in interdisciplinary research. Candidates with diverse academic background are welcomed! (e.g., Physics, Automatic Control, Computer Science, etc.) <br></p>
 
 <p><br></p>
 
