@@ -69,7 +69,7 @@ layout: default
 09/01/2019: Officially started my PhD.  
 //2024: **I officially graduated from !**  
 
-[...see all news](./news)
+[...see all news](./news.md)
 
 <p><br></p>
 
