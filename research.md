@@ -47,8 +47,7 @@ layout: default
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
  • <a href="https://www.nber.org/conferences/nber-workshop-digital-economics-spring-2023">2023 NBER Workshop of Digital Economics, Spring</a></span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
- • Other prestigious conferences on information systems and marketing including WISE, CIST, SCECR, Yale China India Insights Conference, Columbia/Wharton Management, Analytics, and Data Conference (MAD), Marketing Dynamics Conference, etc. 
-</p>
+ • Other prestigious conferences on information systems and marketing including WISE, CIST, SCECR, Yale China India Insights Conference, Columbia/Wharton Management, Analytics, and Data Conference (MAD), Marketing Dynamics Conference, etc. </p>
 
 
 
@@ -68,8 +67,7 @@ layout: default
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
  • <a href="https://www.nber.org/conferences/nber-workshop-digital-economics-spring-2023">2023 NBER Workshop of Digital Economics, Spring</a></span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
- • Other prestigious conferences on information systems and marketing including WISE, CIST, SCECR, Yale China India Insights Conference, Columbia/Wharton Management, Analytics, and Data Conference (MAD), Marketing Dynamics Conference, etc. 
-</p>
+ • Other prestigious conferences on information systems and marketing including WISE, CIST, SCECR, Yale China India Insights Conference, Columbia/Wharton Management, Analytics, and Data Conference (MAD), Marketing Dynamics Conference, etc. </p>
 
 <p><br></p>
 
@@ -84,8 +82,7 @@ layout: default
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
  • <a href="https://www.nber.org/conferences/nber-workshop-digital-economics-spring-2023">2023 NBER Workshop of Digital Economics, Spring</a></span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
- • Other prestigious conferences on information systems and marketing including WISE, CIST, SCECR, Yale China India Insights Conference, Columbia/Wharton Management, Analytics, and Data Conference (MAD), Marketing Dynamics Conference, etc. 
-</p>
+ • Other prestigious conferences on information systems and marketing including WISE, CIST, SCECR, Yale China India Insights Conference, Columbia/Wharton Management, Analytics, and Data Conference (MAD), Marketing Dynamics Conference, etc. </p>
 
 
 
