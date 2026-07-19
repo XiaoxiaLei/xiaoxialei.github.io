@@ -15,3 +15,49 @@ layout: default
 <!-- <li><a href="./my_failed_projects.html">Failed</a></li> -->
 </ul>
 
+
+
+<div>
+
+<p><br></p>
+<h3>Teaching Interest</h3>
+<p><br></p>
+
+<p style="text-align: justify;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Big Data:</b> Business Analytics and Data Science (Undergraduate)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>AI+Social Science:</b> AI Agents: Applications and Simulations (Undergraduate); Economics of AI (Ph.D. Seminar)<br></p>
+
+
+
+<p><br></p>
+<p><br></p>
+<h3>Instructor</h3>
+<p><br></p>
+
+
+
+<p><br></p>
+<p><br></p>
+<h3>Instructor</h3>
+<p><br></p>
+
+
+
+<p><br></p>
+<p><br></p>
+<h3>Guest Instructor</h3>
+<p><br></p>
+
+
+
+<p><br></p>
+<p><br></p>
+<h3>Teaching Assistant</h3>
+<p><br></p>
+
+
+
+
+
+
+
