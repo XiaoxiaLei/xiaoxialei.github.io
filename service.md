@@ -40,10 +40,10 @@ layout: default
 
 <p style="text-align: justify;">
 &emsp; NeurIPS Regulatable ML Workshop (RegML), 2024, 2025<br>
-&emsp; &emsp; Specialized in (1) Economics of Artificial Intelligence; (2) Algorithms, Law, and Policy<br>
+&emsp; &emsp; • Specialized in (1) Economics of Artificial Intelligence; (2) Algorithms, Law, and Policy<br>
 &emsp; ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO’25, ’26)<br>
-&emsp; &emsp; ACM EAAMO is among the top3 conferences in AI Ethics. The another two are ACM FAccT, AAAI/ACM AIES.<br>
-&emsp; &emsp; Specialized in (1) Empirical Studies; (2) Position Papers and Problem Pitches<br></p>
+&emsp; &emsp; • ACM EAAMO is among the top3 conferences in AI Ethics. The another two are ACM FAccT, AAAI/ACM AIES.<br>
+&emsp; &emsp; • Specialized in (1) Empirical Studies; (2) Position Papers and Problem Pitches<br></p>
 
 
 
@@ -51,7 +51,7 @@ layout: default
 
 <p style="text-align: justify;">
 &emsp; NeurIPS (Main Track, Position Paper Track)<br>
-&emsp; &emsp; Specialized in (1) AI/ML for social sciences; (2) Socio-technical aspects of AI; (3) Human interaction in AI systems<br>
+&emsp; &emsp; • Specialized in (1) AI/ML for social sciences; (2) Socio-technical aspects of AI; (3) Human interaction in AI systems<br>
 &emsp; AAAI Workshop on AI Governance (2nd AIGOV)<br>
 &emsp; NeurIPS Regulatable ML Workshop (2nd RegML)<br>
 &emsp; IJCAI Workshop on AI Governance (1st AIGOV)<br>
@@ -60,9 +60,9 @@ layout: default
 &emsp; Americas Conference on Information Systems (AMCIS)<br>
 &emsp; China Summer Workshop on Information Management (CSWIM)<br>
 &emsp; The Annual Meeting of the Academy of Management (AOM)<br>
-&emsp; &emsp; Communication, Digital Technology, and Organization (CTO) Division<br>
+&emsp; &emsp; • Communication, Digital Technology, and Organization (CTO) Division<br>
 &emsp; The Asia Academy of Management Conference (AAOM)<br>
-&emsp; &emsp; Business Policy and Strategy Track <br></p>
+&emsp; &emsp; • Business Policy and Strategy Track <br></p>
 
 
 
