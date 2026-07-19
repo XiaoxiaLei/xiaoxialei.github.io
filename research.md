@@ -159,7 +159,7 @@ Multi-Agent System Governance Under the Ride-Sharing Aggregator Algorithms</stro
 
 <p style="text-align: justify;">
 
-Cited by "Issues Paper on Data for Development", <i>United Nations Conference on Trade and Development}</i>, Commission on Science and Technology for Development, 2023 <a href="https://unctad.org/system/files/information-document/CSTD2023-2024_Issues01_data_en.pdf">"[LINK]"</a><br></p>
+Cited by "Issues Paper on Data for Development", <i>United Nations Conference on Trade and Development}</i>, Commission on Science and Technology for Development, 2023 <a href="https://unctad.org/system/files/information-document/CSTD2023-2024_Issues01_data_en.pdf">[LINK]</a><br></p>
 
 
 
