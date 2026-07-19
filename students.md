@@ -17,3 +17,31 @@ layout: default
 </ul>
 
 
+
+<div>
+
+<p><br></p>
+<h3>Student Advising</h3>
+<p><br></p>
+
+<p style="text-align: justify;">
+&emsp; <b>Data/AI-Driven Decision Support Systems: Theory and Practice</b>, Undergraduate/Graduate core <br>
+&emsp; &emsp; 2027, 2028, 2029<br></p>
+
+
+
+<p><br></p>
+<p><br></p>
+<h3>Student Advising</h3>
+<p><br></p>
+
+<p style="text-align: justify;">
+<strong>Huazhong University of Science and Technology</strong><br>  
+&emsp; <b>Computational Text Analysis (Text as Data)</b>, Undergraduate core <br> 
+&emsp; &emsp; 2027, 2028, 2029<br>
+&emsp; <b>Data/AI-Driven Decision Support Systems: Theory and Practice</b>, Undergraduate/Graduate core <br>
+&emsp; &emsp; 2027, 2028, 2029<br></p>
+
+
+
+
