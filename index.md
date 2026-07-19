@@ -25,7 +25,7 @@ layout: default
 
 <p><br></p>
 
-<p style="text-align: justify;"> Previously, I got my Ph.D. (with MPhil.) in <a href="https://www.acem.sjtu.edu.cn/en/acem/message.html">Management Science and Engineering (MS&E)</a> at Antai College of Economics and Management (ACEM), <a href="https://www.acem.sjtu.edu.cn/en/intl/international-partners.html">Shanghai Jiao Tong University</a> and a B.A. in <a href="https://gs.swufe.edu.cn/english/about/Dean_s_message.htm">Management</a> (with a focus on Managerial Economics) from the School of Business Administration (SBA) of <a href="https://gs.swufe.edu.cn/english/Internationalization/Partner_Universities.htm">Southwestern University of Finance and Economics</a>. Before college, I was in the Hunan Provincial Natural Sciences Talent Class, where I learned a bunch of fun stuff, including college physics, data structure and algorithms, the term "Artificial Intelligence", and the programming language "Pascal". </p>
+<p style="text-align: justify;"> Previously, I got my Ph.D. (with MPhil.) in <a href="https://www.acem.sjtu.edu.cn/en/acem/message.html">Management Science and Engineering (MS&E)</a> at Antai College of Economics and Management (ACEM), <a href="https://www.acem.sjtu.edu.cn/en/intl/international-partners.html">Shanghai Jiao Tong University</a> and a B.A. in <a href="https://gs.swufe.edu.cn/english/about/Dean_s_message.htm">Management</a> (with a focus on Managerial Economics) from the School of Business Administration (SBA) of <a href="https://gs.swufe.edu.cn/english/Internationalization/Partner_Universities.htm">Southwestern University of Finance and Economics</a>. Before college, I was in the Hunan Provincial Natural Sciences Talent Class, where I learned a bunch of fun stuff, including college physics, data structure and algorithms, the concept of "Artificial Intelligence", and the programming language "Pascal". </p>
 
 <!-- , My research aims to develop novel machine learning algorithms for data-driven decision making practices, with focus on bandits and multitask learning. In addition, I also seek to provide safe and robust machine learning solutions. My work has been motivated by real-world business applications in healthcare operations, textual analytics, and dynamic pricing. </p>
  
@@ -37,8 +37,8 @@ layout: default
 
 #### Academic Positions
 
-09/22/2022: *Towards a Machine Learning * is accepted to [WISE'23](https://asplos-conference.org/)!  
-05/23/2022: I will be joining  this summer!  
+[Huazhong University of Science and Technology](https://english.hust.edu.cn/INTERNATIONAL_HUST/Global_Partnership/2.htm), [School of Management](http://english.cm.hust.edu.cn/About/Dean_s_Message1.htm), 2026-Now.  
+&emsp;Assistant Professor (Huazhong Scholar)  
 09/01/2019: Officially started my PhD.  
 //2024: **I officially graduated from !** 
 
