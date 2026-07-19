@@ -128,7 +128,7 @@ Multi-Agent System Governance Under the Ride-Sharing Aggregator Algorithms</stro
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
  • 2026 Conference, Fall</span></p></p> -->
 
-<strong>Folding Organizations</strong><br>
+<strong>Folding Organizations</strong><br></p>
 <!-- <a href="https://www.dropbox.com/scl/fo/u9q7kovryifgehqp2nwzd/AIJRWYzWQt3o7vInweCsuFo?rlkey=umob0j0m5171ljapesfam7gdd&amp;st=yrlrsjiu&amp;e=1&amp;dl=0"> Attention is All You Need: Data Sharing, Algorithmic Inference and Legislative Artifacts </a><br> -->
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/"><i>Xiaoxia Lei (HUST)</i></a>, and <a href="https://www.sem.tsinghua.edu.cn/en/info/1219/7156.htm">Juan Feng (Tsinghua)</a>. <br> -->
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Management Science</b> († Regular Track, Information Systems Department) <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">[Journal]</a> <br> -->
