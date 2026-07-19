@@ -21,12 +21,18 @@ layout: default
 <div>
 
 <p><br></p>
-<h3>Student Advising</h3>
+<h3>Opening for Graduate Students</h3>
 <p><br></p>
 
-<p style="text-align: justify;">
-&emsp; <b>Data/AI-Driven Decision Support Systems: Theory and Practice</b>, Undergraduate/Graduate core <br>
-&emsp; &emsp; 2027, 2028, 2029<br></p>
+<p style="text-align: justify;">I am seeking at least 1 graduate student to work together (senior undergraduate students @ HUST are also welcomed). Students will design and run research studies, analyze data, prepare publications, and be core members of the collective intellectual community. 
+
+I am particularly open to candidates who are interested in interdisciplinary research. Candidates with diverse academic background are welcomed!
+
+Potential assets for applicants include: Experience with lab/online experiments, computational skills (e.g. machine learning, web programming, natural language processing, developing and working with LLMs), experience with social media data collection/experimentation, and knowledge of fields such as social psychology, artificial intelligence, cognitive science, marketing, political science, and/or communications. That being said, I do not have a set vision of the skill sets I am looking to add to my group, so I would encourage anyone interested in the topics of "AI + Social Science" to apply, regardless of background! 
+
+Ideal candidates will be creative, independent, and deeply engaged. Fecessary funds will be available to the student, as will many opportunities for outside collaboration.  
+
+Please send your CV, and statement of interest (two pages max) to my email.</p>
 
 
 
@@ -37,11 +43,40 @@ layout: default
 
 <p style="text-align: justify;">
 <strong>Huazhong University of Science and Technology</strong><br>  
-&emsp; <b>Computational Text Analysis (Text as Data)</b>, Undergraduate core <br> 
-&emsp; &emsp; 2027, 2028, 2029<br>
-&emsp; <b>Data/AI-Driven Decision Support Systems: Theory and Practice</b>, Undergraduate/Graduate core <br>
-&emsp; &emsp; 2027, 2028, 2029<br></p>
+<b>Advisor/Research Supervisor</b>
+&emsp; XXX No.1, 2026-present, Ph.D. in Management Science,  University. <br>
+&emsp; &emsp; Graduate Thesis advisor [XXX] (202) <br> 
+&emsp; &emsp; <br> 
+<b>Committee Member</b>
+&emsp; XXX No.1, 202-20, Ph.D. in , University . First position: . <br>
+<b>Mentor</b>
+&emsp; XXX No.1, Spring 202, Diverse Doctorates in Business program. <br></p>
 
 
 
+<p style="text-align: justify;">
+<strong>Shanghai Jiao Tong University</strong><br>  
+&emsp; ZYX - Undergraduate: ACEM, SJTU; Master: Shanghai Advanced Institute of Finance - SAIF, SJTU. <br>
+&emsp; &emsp; Undergraduate Thesis advisor [stock market response to firm announcements, BERT NLP/spillover/herding effect] (2021) <br> 
+&emsp; LY - Undergraduate: SUFE; MBA: ACEM, SJTU. <br>
+&emsp; &emsp; Master’s Thesis advisor [retail store management, salesforce management, digital transformation] (2020) <br>
+&emsp; ZN - Undergraduate: Renmin; MBA: ACEM, SJTU. <br>
+&emsp; &emsp; Master’s Thesis advisor [search in e-commerce] (2019) <br></p>
 
+
+
+<!-- Advisor/Research Supervisor
+
+Yunlong Wang, 2023 – present, Ph.D. in Management Science, Shanghai Jiao Tong University.
+Mengting Chao, 2022 – present, Ph.D. in the AMSC program, University of Maryland, College Park.
+Yuchen Luo, 2020 – 2022, Ph.D. in the AMSC program, University of Maryland, College Park. First position: Bain & Company.
+Taylor Egner, 2021 – 2022, M.S. in Operations, University of Colorado Boulder. First position: Laminaar Aviation Infotech.
+
+Committee Member
+
+Hasti Rahemi, 2019 – 2023, Ph.D. in Operations, University of Colorado Boulder. First position: University of Wisconsin-Whitewater.
+Fan You, 2018 – 2022, Ph.D. in Operations, University of Colorado Boulder. First position: Uber Technologies.
+
+Mentor
+
+Shanava Saintolien, Spring 2023, Diverse Doctorates in Business program. -->
