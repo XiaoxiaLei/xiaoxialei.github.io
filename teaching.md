@@ -35,9 +35,11 @@ layout: default
 <p><br></p>
 
 <p style="text-align: justify;">
-[Huazhong University of Science and Technology 华中科技大学](https://english.hust.edu.cn/INTERNATIONAL_HUST/Global_Partnership/2.htm)  
-&emsp; Computational Text Analysis (Text as Data), Undergraduate core <br> 
-&emsp; Data/AI-Driven Decision Support Systems: Theory and Practice, Undergraduate/Graduate core <br></p>
+<strong>Huazhong University of Science and Technology</strong>  
+&emsp; <b>Computational Text Analysis (Text as Data), Undergraduate core </b><br> 
+&emsp; &emsp; 2027
+&emsp; <b>Data/AI-Driven Decision Support Systems: Theory and Practice, Undergraduate/Graduate core </b><br></p>
+&emsp; &emsp; 2027
 
 
 
