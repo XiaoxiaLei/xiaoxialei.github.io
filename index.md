@@ -33,12 +33,14 @@ layout: default
 
 <!-- <p>My research aims to develop novel machine learning algorithms for data-driven decision making practices, with focus on bandits and multitask learning. In addition, I also seek to provide safe and robust machine learning solutions. My work has been motivated by real-world business applications in healthcare operations, textual analytics, and dynamic pricing. </p> -->
 
+<!-- <p>**Assistant Professor (Huazhong Scholar)** </p> -->
+
 <p><br></p>
 
 #### Academic Positions
 
 [Huazhong University of Science and Technology](https://english.hust.edu.cn/INTERNATIONAL_HUST/Global_Partnership/2.htm), [School of Management](http://english.cm.hust.edu.cn/About/Dean_s_Message1.htm), 2026-Now.  
-&emsp;**Assistant Professor (Huazhong Scholar)**
+&emsp;Assistant Professor (Huazhong Scholar)
 
 [Texas A&M University](https://global.tamu.edu/gpi/agreements/university-partners.html), [Mays Business School](https://stories.tamu.edu/news/2022/05/20/eli-jones-and-the-business-of-transforming-lives/), 2023-2024.  
 &emsp;Joint Ph.D. Student 
