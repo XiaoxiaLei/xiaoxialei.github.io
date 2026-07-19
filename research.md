@@ -139,8 +139,11 @@ Multi-Agent System Governance Under the Ride-Sharing Aggregator Algorithms</stro
 
 
 <p><br></p>
-<h3>Refereed Conference Proceedings <a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/">(CCF-A)</a></h3>
+<h3>Refereed Conference Proceedings </h3>
 <p><br></p>
+
+<p style="text-align: justify;">
+(Only top CS Conferences in <a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/">(CCF-A)</a> list and <a href="https://csrankings.org/#/index?all&amp;asia">CSRankings</a> list.)</p>
 
 
 
