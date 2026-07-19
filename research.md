@@ -19,9 +19,13 @@ layout: default
 
 ** denotes the lead author, # denotes equal contribution, * denotes the corresponding author, ## denotes solo author.
 
+<p><br></p>
+
 † denotes regular track, research articles, conference main track; 
 ‡ denotes special issue articles, fast track, research notes, frontiers, conference workshop; 
 § denotes dialogue, letters, book review, commentary, conference tutorial.
+
+<p><br></p>
 
 
 
@@ -32,9 +36,8 @@ layout: default
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(with )<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major Revision, <b>Management Science</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'>Paper Award (2022)</span></p>
-  
-  
-  
+
+
 
 <p><br></p>
 <h3>Publications</h3>
