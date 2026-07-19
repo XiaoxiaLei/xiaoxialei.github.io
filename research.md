@@ -34,7 +34,7 @@ layout: default
 <div>
 
 <h3>Accepted and Published Papers</h3>
-<!-- <p><br></p> -->
+<p><br></p>
 
 <p style="text-align: justify;">
 <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834"> Trade-offs in Leveraging External Data Capabilities: Evidence from a Field Experiment in an Online Search Market </a><br>
@@ -58,7 +58,7 @@ layout: default
 
 <p><br></p>
 <h3>Working Papers</h3>
-<!-- <p><br></p> -->
+<p><br></p>
 
 <p style="text-align: justify;">
 <strong>Attention is All You Need: Data Sharing, Algorithmic Inference and Legislative Artifacts</strong><br>
@@ -84,6 +84,22 @@ layout: default
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  • Supported by <a href="https://openai.com/form/researcher-access-program">OpenAI Researcher Access Program</a></p></p>
 
+<!-- <p><br></p> -->
+
+<p style="text-align: justify;">
+<strong>网约车聚合算法下安全责任主体的平台治理投入决策分析(English Title: Multi-Agent System Governance Under the Ride-Sharing Aggregator Algorithms</strong><br>
+<!-- <a href="https://www.dropbox.com/scl/fo/u9q7kovryifgehqp2nwzd/AIJRWYzWQt3o7vInweCsuFo?rlkey=umob0j0m5171ljapesfam7gdd&amp;st=yrlrsjiu&amp;e=1&amp;dl=0"> Crowd-Driven Inferential Signals </a><br> -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/">Xiaoxia Lei (HUST)</a>, and <a href="https://www.acem.sjtu.edu.cn/en/faculty/houliwen.html">Liwen Hou (SJTU)</a>. </p>
+ <!-- <br> -->
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Management Science</b> († Regular Track, Information Systems Department) <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">[Journal]</a> <br> -->
+<!-- <p style="padding-left: 0.2em;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
+ • International Symposium: Organizational Change and Business Model Innovation in the AI Era, Best Paper Award, 2026</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ • 2024 SJTU ACEM-IACMR Workshop on Organizational Management and Strategic Management Research<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ • Supported by <a href="https://openai.com/form/researcher-access-program">OpenAI Researcher Access Program</a></p></p> -->
+
 
 
 <p><br></p>
@@ -99,7 +115,7 @@ layout: default
 
 <p><br></p>
 <h3>Software</h3>
-<p><br></p>
+<!-- <p><br></p> -->
 
 <p><a href="https://github.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R Package</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(with )<br></p>
