@@ -41,6 +41,8 @@ layout: default
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/">Xiaoxia Lei (SJTU)</a>, <a href="https://chen-yixing.github.io/">Yixing Chen (Notre Dame)</a>, and <a href="https://sites.google.com/view/ananyasen/home">Ananya Sen (CMU)*</a>. (2024). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Management Science</b> († Regular Track, Information Systems Department) <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">[Journal]</a> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
+ • INFORMS Information Systems Society (ISS) Cluster, Finalist for Best Paper Award, 2023
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
  • <a href="https://questromworld.bu.edu/platformstrategy/">2024 Platform Strategy Research Symposium</a></span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
  • <a href="https://www.nber.org/conferences/economics-artificial-intelligence-conference-fall-2023">2023 NBER Economics of Artificial Intelligence Conference, Fall</a></span><br>
@@ -83,22 +85,6 @@ layout: default
  • <a href="https://www.nber.org/conferences/nber-workshop-digital-economics-spring-2023">2023 NBER Workshop of Digital Economics, Spring</a></span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  • Other prestigious conferences on information systems and marketing including WISE, CIST, SCECR, Yale China India Insights Conference, Columbia/Wharton Management, Analytics, and Data Conference (MAD), Marketing Dynamics Conference, etc. </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
