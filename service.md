@@ -26,7 +26,7 @@ layout: default
 
 <h4>Editorial</h4> <br>
 
-<h5> • Journal Reviewer <h5><br>
+<h4> • Journal Reviewer <h4><br>
 
 <p style="text-align: justify;">
 &emsp; Information Economics and Policy (SSCI, JCR Q2, Renmin Journal Ranking A- in Economics Field)<br>
@@ -34,7 +34,7 @@ layout: default
 
 
 
-<h5> • Program Committee <h5><br>
+<h4> • Program Committee <h4><br>
 
 <p style="text-align: justify;">
 &emsp; NeurIPS Regulatable ML Workshop (RegML), 2024, 2025<br>
@@ -45,7 +45,7 @@ layout: default
 
 
 
-<h5> • Conference Reviewer <h5><br>
+<h4> • Conference Reviewer <h4><br>
 
 <p style="text-align: justify;">
 &emsp; NeurIPS (Main Track, Position Paper Track)<br>
