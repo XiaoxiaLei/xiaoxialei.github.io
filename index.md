@@ -45,14 +45,20 @@ layout: default
 [Texas A&M University](https://global.tamu.edu/gpi/agreements/university-partners.html), [Mays Business School](https://stories.tamu.edu/news/2022/05/20/eli-jones-and-the-business-of-transforming-lives/), 2023-2024.  
 &emsp;Joint Ph.D. Student 
 
+
+
 <p><br></p>
 
 #### Education
 
-09/22/2022: *Towards a Machine Learning * is accepted to [WISE'23](https://asplos-conference.org/)!  
-05/23/2022: I will be joining  this summer!  
-09/01/2019: Officially started my PhD.  
-//2024: **I officially graduated from !**  
+**Ph.D.** **Management Science and Engineering (Information, Technology and Innovation)**, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/global-sjtu), 2019-2025   
+**MPhil.** **Management Science and Engineering (Decision Science and Operations Research)**, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/global-sjtu), 2017-2019   
+&emsp;[Antai College of Economics & Management (ACEM)](https://www.acem.sjtu.edu.cn/en/acem/message.html)
+
+**B.A.** **Managerial Economics (With Highest Honors)**, [Southwestern University of Finance and Economics](https://e.swufe.edu.cn/International/International_Partners.htm), 2013-2017   
+&emsp;[The School of Business Administration (SBA)](https://gs.swufe.edu.cn/english/about/Dean_s_message.htm) and [China Western Economic Research Center](https://www.weai.org/current-institutional-members/southwestern-university-of-finance-and-economics)
+
+
 
 <p><br></p>
 
