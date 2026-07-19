@@ -87,7 +87,7 @@ layout: default
 <!-- <p><br></p> -->
 
 <p style="text-align: justify;">
-<strong>网约车聚合算法下安全责任主体的平台治理投入决策分析 
+<strong>网约车聚合算法下安全责任主体的平台治理投入决策分析<br>
 Multi-Agent System Governance Under the Ride-Sharing Aggregator Algorithms</strong><br>
 <!-- <a href="https://www.dropbox.com/scl/fo/u9q7kovryifgehqp2nwzd/AIJRWYzWQt3o7vInweCsuFo?rlkey=umob0j0m5171ljapesfam7gdd&amp;st=yrlrsjiu&amp;e=1&amp;dl=0"> Crowd-Driven Inferential Signals </a><br> -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/">Xiaoxia Lei (HUST)</a>, and <a href="https://www.acem.sjtu.edu.cn/en/faculty/houliwen.html">Liwen Hou (SJTU)</a>. </p>
