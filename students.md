@@ -24,15 +24,23 @@ layout: default
 <h3>Opening for Graduate Students</h3>
 <p><br></p>
 
-<p style="text-align: justify;">I am seeking at least 1 graduate student to work together (senior undergraduate students @ HUST are also welcomed). Students will design and run research studies, analyze data, prepare publications, and be core members of the collective intellectual community. 
+<p style="text-align: justify;">I am seeking at least 1 graduate student to work together (senior undergraduate students @ HUST are also welcomed). Students will design and run research studies, analyze data, prepare publications, and be core members of the collective intellectual community. <br>
 
-I am particularly open to candidates who are interested in interdisciplinary research. Candidates with diverse academic background are welcomed!
+<p><br></p>
 
-Potential assets for applicants include: Experience with lab/online experiments, computational skills (e.g. machine learning, web programming, natural language processing, developing and working with LLMs), experience with social media data collection/experimentation, and knowledge of fields such as social psychology, artificial intelligence, cognitive science, marketing, political science, and/or communications. That being said, I do not have a set vision of the skill sets I am looking to add to my group, so I would encourage anyone interested in the topics of "AI + Social Science" to apply, regardless of background! 
+I am particularly open to candidates who are interested in interdisciplinary research. Candidates with diverse academic background are welcomed! <br>
 
-Ideal candidates will be creative, independent, and deeply engaged. Fecessary funds will be available to the student, as will many opportunities for outside collaboration.  
+<p><br></p>
 
-Please send your CV, and statement of interest (two pages max) to my email.</p>
+Potential assets for applicants include: Experience with lab/online experiments, computational skills (e.g. machine learning, web programming, natural language processing, developing and working with LLMs), experience with social media data collection/experimentation, and knowledge of fields such as social psychology, artificial intelligence, cognitive science, marketing, political science, and/or communications. That being said, I do not have a set vision of the skill sets I am looking to add to my group, so I would encourage anyone interested in the topics of "AI + Social Science" to apply, regardless of background! <br>
+
+<p><br></p>
+
+Ideal candidates will be creative, independent, and deeply engaged. Fecessary funds will be available to the student, as will many opportunities for outside collaboration. <br> 
+
+<p><br></p>
+
+Please send your CV, and statement of interest (two pages max) to my email. <br></p>
 
 
 
