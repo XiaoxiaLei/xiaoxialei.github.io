@@ -54,11 +54,16 @@ Please send your CV, and statement of interest (two pages max) to my email. <br>
 <b>Advisor/Research Supervisor</b><br>
 &emsp; XXX No.1, 2026-present, Ph.D. in Management Science,  University. <br>
 &emsp; &emsp; Graduate Thesis advisor [XXX] (202) <br> 
-&emsp; &emsp; <br> 
+
 <b>Committee Member</b><br>
 &emsp; XXX No.1, 202-20, Ph.D. in , University . First position: . <br>
+
 <b>Mentor</b><br>
 &emsp; XXX No.1, Spring 202, Diverse Doctorates in Business program. <br></p>
+
+
+
+<p><br></p>
 
 
 
