@@ -40,7 +40,7 @@ layout: default
 
 #### Academic Positions
 
-[Huazhong University of Science and Technology 华中科技大学](https://english.hust.edu.cn/INTERNATIONAL_HUST/Global_Partnership/2.htm), [School of Management (SOE)](http://english.cm.hust.edu.cn/About/Dean_s_Message1.htm), 2026-Now.  
+[Huazhong University of Science and Technology 华中科技大学](https://english.hust.edu.cn/INTERNATIONAL_HUST/Global_Partnership/2.htm), [School of Management (SOE)](http://english.cm.hust.edu.cn/About/Dean_s_Message1.htm), 2026-present.  
 &emsp;Assistant Professor (Huazhong Scholar)
 
 [Texas A&M University](https://global.tamu.edu/gpi/agreements/university-partners.html), [Mays Business School](https://stories.tamu.edu/news/2022/05/20/eli-jones-and-the-business-of-transforming-lives/), 2023-2024.  
