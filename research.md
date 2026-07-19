@@ -50,7 +50,7 @@ layout: default
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
  • <a href="https://www.nber.org/conferences/nber-workshop-digital-economics-spring-2023">2023 NBER Workshop of Digital Economics, Spring</a></span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- • Other prestigious conferences on information systems and marketing including WISE, CIST, SCECR, Yale China India Insights Conference, Columbia/Wharton Management, Analytics, and Data
+ • Other prestigious conferences on information systems and marketing including WISE, CIST, SCECR, Yale China India Insights Conference, Columbia/Wharton Management, Analytics, and Data<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  Conference (MAD), Marketing Dynamics Conference, etc. </p></p>
 
@@ -74,7 +74,7 @@ layout: default
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
  • <a href="https://www.nber.org/conferences/nber-workshop-digital-economics-spring-2023">2023 NBER Workshop of Digital Economics, Spring</a></span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- • Other prestigious conferences on information systems and marketing including WISE, CIST, SCECR, Yale China India Insights Conference, Columbia/Wharton Management, Analytics, and Data
+ • Other prestigious conferences on information systems and marketing including WISE, CIST, SCECR, Yale China India Insights Conference, Columbia/Wharton Management, Analytics, and Data<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  Conference (MAD), Marketing Dynamics Conference, etc. </p></p>
 
@@ -94,7 +94,7 @@ layout: default
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
  • <a href="https://www.nber.org/conferences/nber-workshop-digital-economics-spring-2023">2023 NBER Workshop of Digital Economics, Spring</a></span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- • Other prestigious conferences on information systems and marketing including WISE, CIST, SCECR, Yale China India Insights Conference, Columbia/Wharton Management, Analytics, and Data
+ • Other prestigious conferences on information systems and marketing including WISE, CIST, SCECR, Yale China India Insights Conference, Columbia/Wharton Management, Analytics, and Data<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  Conference (MAD), Marketing Dynamics Conference, etc. </p></p>
 
