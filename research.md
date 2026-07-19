@@ -31,8 +31,6 @@ layout: default
 
 <p style="text-align: justify;"> Authors indicated with “underlined font” are Ph.D. students. </p>
 
-<p><br></p>
-
 
 
 <div>
