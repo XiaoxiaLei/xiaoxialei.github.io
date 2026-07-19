@@ -66,7 +66,7 @@ layout: default
  
 06/2026: Officially started my career as an Assistant Professor @ HUST.   
 
-[...see all news](./milestones.md)
+[...see all milestones](./milestones.md)
 
 
 
