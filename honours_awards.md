@@ -47,7 +47,8 @@ layout: default
 &emsp; &emsp; • Also Antai College of Economics & Management Distinguished Teaching Assistant Award (4 TAs per year) <br>
 &emsp; Meritorious Award of Mathematical Contest in Modeling, (as the team leader), 2016 <br>
 &emsp; &emsp; • Organized by the SIAM/INFORMS/MAA/AMS/ASA/COMAP <br>
-&emsp; First Prize of the (China) Contemporary Undergraduate Mathematical Contest in Modeling (Sichuan province, as the team leader), 2015 <br>
+&emsp; First Prize of the (China) Contemporary Undergraduate Mathematical Contest in Modeling (as the team leader), 2015 <br>
+&emsp; &emsp; • Sichuan province <br>
 &emsp; &emsp; • Organized by the China Society for Industrial and Applied Mathematics <br></p>
   
   
