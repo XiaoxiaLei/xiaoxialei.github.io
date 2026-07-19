@@ -35,11 +35,11 @@ layout: default
 <p><br></p>
 
 <p style="text-align: justify;">
-<strong>Huazhong University of Science and Technology</strong>  
+<strong>Huazhong University of Science and Technology</strong><br>  
 &emsp; <b>Computational Text Analysis (Text as Data), Undergraduate core </b><br> 
-&emsp; &emsp; 2027
+&emsp; &emsp; 2027<br>
 &emsp; <b>Data/AI-Driven Decision Support Systems: Theory and Practice, Undergraduate/Graduate core </b><br></p>
-&emsp; &emsp; 2027
+&emsp; &emsp; 2027<br>
 
 
 
