@@ -65,4 +65,6 @@ Graduate Student Research and Presentation Travel Award, 2019-2024 <br>
 <i>General Project:</i> Platform Business Model Innovation and Value Creation Based on the Ownership of Data in the Digital Age (CNY 480,000), 2022 <br> 
 &emsp; National Natural Science Foundation of China (NSFC) [Grant 72171132] <br></p>
 
+</div>
+
 
