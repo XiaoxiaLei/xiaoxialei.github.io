@@ -49,7 +49,7 @@ layout: default
 &emsp; &emsp; • Organized by the SIAM/INFORMS/MAA/AMS/ASA/COMAP <br>
 &emsp; First Prize of the (China) Contemporary Undergraduate Mathematical Contest in Modeling (as the team leader), 2015 <br>
 &emsp; &emsp; • Sichuan Province <br>
-&emsp; &emsp; • Organized by the China Society for Industrial and Applied Mathematics <br></p>
+&emsp; &emsp; • Organized by the China Society for Industrial and Applied Mathematics (SIAM) <br></p>
   
   
   
