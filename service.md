@@ -28,15 +28,15 @@ layout: default
 
 
 
-#### Community Service <br>
+<h4>Community Service</h4> <br>
 
 
 
-#### Conference Organization <br>
+<h4>Conference Organization</h4> <br>
 
 
 
-#### Consulting Work <br>
+<h4>Consulting Work</h4> <br>
 
 
 
