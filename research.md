@@ -29,10 +29,24 @@ layout: default
 
 <p><br></p>
 
+<p style="text-align: justify;"> Authors indicated with “underlined font” are Ph.D. students. </p>
+
+<p><br></p>
+
 
 
 <div>
 
+<p><br></p>
+<h3>Focus</h3>
+<p><br></p>
+
+<p style="text-align: justify;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Data and Algorithm. AI & Society. Economics and Computation. Information, Technology and Innovation.</b></p>
+
+ 
+
+<p><br></p>
 <h3>Accepted and Published Papers</h3>
 <p><br></p>
 
@@ -104,23 +118,53 @@ Multi-Agent System Governance Under the Ride-Sharing Aggregator Algorithms</stro
 
 
 <p><br></p>
-<h3>Publications</h3>
+<h3>Work in Progress (Selected)</h3>
 <p><br></p>
 
-<p><a href="https://proceedings.mlr.press/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reinforcement Learning</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(with )<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Internat</b>, 2023</p>
+<p style="text-align: justify;">
+<strong>Sorting versus Screening: Trade-offs in Crowdsourcing Ideas on a Digital Platform</strong><br>
+<!-- <a href="https://www.dropbox.com/scl/fo/u9q7kovryifgehqp2nwzd/AIJRWYzWQt3o7vInweCsuFo?rlkey=umob0j0m5171ljapesfam7gdd&amp;st=yrlrsjiu&amp;e=1&amp;dl=0"> Attention is All You Need: Data Sharing, Algorithmic Inference and Legislative Artifacts </a><br> -->
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/"><i>Xiaoxia Lei (HUST)</i></a>, and <a href="https://www.sem.tsinghua.edu.cn/en/info/1219/7156.htm">Juan Feng (Tsinghua)</a>. <br> -->
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Management Science</b> († Regular Track, Information Systems Department) <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">[Journal]</a> <br> -->
+<!-- <p style="padding-left: 0.2em;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
+ • 2026 Conference, Fall</span></p></p> -->
 
-  
+<strong>Folding Organizations</strong><br>
+<!-- <a href="https://www.dropbox.com/scl/fo/u9q7kovryifgehqp2nwzd/AIJRWYzWQt3o7vInweCsuFo?rlkey=umob0j0m5171ljapesfam7gdd&amp;st=yrlrsjiu&amp;e=1&amp;dl=0"> Attention is All You Need: Data Sharing, Algorithmic Inference and Legislative Artifacts </a><br> -->
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/"><i>Xiaoxia Lei (HUST)</i></a>, and <a href="https://www.sem.tsinghua.edu.cn/en/info/1219/7156.htm">Juan Feng (Tsinghua)</a>. <br> -->
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Management Science</b> († Regular Track, Information Systems Department) <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">[Journal]</a> <br> -->
+<!-- <p style="padding-left: 0.2em;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
+ • 2026 Conference, Fall</span></p></p> -->
+
 
 
 <p><br></p>
-<h3>Software</h3>
-<!-- <p><br></p> -->
+<h3>Refereed Conference Proceedings <a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/">(CCF-A)</a></h3>
+<p><br></p>
 
-<p><a href="https://github.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R Package</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(with )<br></p>
+
+
+<p><br></p>
+<h3>Book Chapters and Other Writings </a></h3>
+<p><br></p>
+
+
+
+<p><br></p>
+<h3>Press, Blogs, and Other Mentions </a></h3>
+<p><br></p>
+
+<p style="text-align: justify;">
+
+Cited by ``Issues Paper on Data for Development", \emph{United Nations Conference on Trade and Development}, Commission on Science and Technology for Development, 2023 <a href="https://unctad.org/system/files/information-document/CSTD2023-2024_Issues01_data_en.pdf">"[LINK]"</a><br></p>
+
+
+
 </div>
+
+
 
 
 
