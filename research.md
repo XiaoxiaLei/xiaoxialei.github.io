@@ -17,13 +17,15 @@ layout: default
 
 
 
-** denotes the lead author, # denotes equal contribution, * denotes the corresponding author, ## denotes solo author.
+
+<p style="text-align: justify;"> ** denotes the lead author, # denotes equal contribution, * denotes the corresponding author, ## denotes solo author. </p>
 
 <p><br></p>
 
+<p style="text-align: justify;"> 
 † denotes regular track, research articles, conference main track; 
 ‡ denotes special issue articles, fast track, research notes, frontiers, conference workshop; 
-§ denotes dialogue, letters, book review, commentary, conference tutorial.
+§ denotes dialogue, letters, book review, commentary, conference tutorial. </p>
 
 <p><br></p>
 
@@ -33,8 +35,9 @@ layout: default
 
 <h3>Accepted and Published Papers</h3>
 <p><br></p>
- 
-<p><a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834"> Trade-offs in Leveraging External Data Capabilities: Evidence from a Field Experiment in an Online Search Market </a><br>
+
+<p style="text-align: justify;">
+<a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834"> Trade-offs in Leveraging External Data Capabilities: Evidence from a Field Experiment in an Online Search Market </a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/">Xiaoxia Lei (SJTU)</a>, <a href="https://chen-yixing.github.io/">Yixing Chen (Notre Dame)</a>, and <a href="https://sites.google.com/view/ananyasen/home">Ananya Sen (CMU)*</a>. (2024). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Management Science</b> († Regular Track, Information Systems Department) <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">[Journal]</a> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
@@ -53,7 +56,9 @@ layout: default
 <h3>Working Papers</h3>
 <p><br></p>
 
-<p><a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834"> Trade-offs in Leveraging External Data Capabilities: Evidence from a Field Experiment in an Online Search Market </a><br>
+
+<p style="text-align: justify;">
+<a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834"> Trade-offs in Leveraging External Data Capabilities: Evidence from a Field Experiment in an Online Search Market </a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/">Xiaoxia Lei (SJTU)</a>, <a href="https://chen-yixing.github.io/">Yixing Chen (Notre Dame)</a>, and <a href="https://sites.google.com/view/ananyasen/home">Ananya Sen (CMU)*</a>. (2024). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Management Science</b> († Regular Track, Information Systems Department) <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">[Journal]</a> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
@@ -66,7 +71,10 @@ layout: default
  • Other prestigious conferences on information systems and marketing including WISE, CIST, SCECR, Yale China India Insights Conference, Columbia/Wharton Management, Analytics, and Data Conference (MAD), Marketing Dynamics Conference, etc. 
 </p>
 
-<p><a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834"> Trade-offs in Leveraging External Data Capabilities: Evidence from a Field Experiment in an Online Search Market </a><br>
+<p><br></p>
+
+<p style="text-align: justify;">
+<a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834"> Trade-offs in Leveraging External Data Capabilities: Evidence from a Field Experiment in an Online Search Market </a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/">Xiaoxia Lei (SJTU)</a>, <a href="https://chen-yixing.github.io/">Yixing Chen (Notre Dame)</a>, and <a href="https://sites.google.com/view/ananyasen/home">Ananya Sen (CMU)*</a>. (2024). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Management Science</b> († Regular Track, Information Systems Department) <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">[Journal]</a> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
