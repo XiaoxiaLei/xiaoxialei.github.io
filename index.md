@@ -39,7 +39,7 @@ layout: default
 
 #### Academic Positions
 
-[Huazhong University of Science and Technology](https://english.hust.edu.cn/INTERNATIONAL_HUST/Global_Partnership/2.htm), [School of Management](http://english.cm.hust.edu.cn/About/Dean_s_Message1.htm), 2026-Now.  
+[Huazhong University of Science and Technology 华中科技大学](https://english.hust.edu.cn/INTERNATIONAL_HUST/Global_Partnership/2.htm), [School of Management](http://english.cm.hust.edu.cn/About/Dean_s_Message1.htm), 2026-Now.  
 &emsp;Assistant Professor (Huazhong Scholar)
 
 [Texas A&M University](https://global.tamu.edu/gpi/agreements/university-partners.html), [Mays Business School](https://stories.tamu.edu/news/2022/05/20/eli-jones-and-the-business-of-transforming-lives/), 2023-2024.  
@@ -51,11 +51,11 @@ layout: default
 
 #### Education
 
-**Ph.D.** MS&E (Information, Technology and Innovation), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/global-sjtu), 2019-2025   
-**MPhil.** MS&E (Decision Science and Operations Research), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/global-sjtu), 2017-2019   
+**Ph.D.** MS&E (Information, Technology and Innovation), [Shanghai Jiao Tong University 上海交通大学](https://en.sjtu.edu.cn/global-sjtu), 2019-2025   
+**MPhil.** MS&E (Decision Science and Operations Research), [Shanghai Jiao Tong University 上海交通大学](https://en.sjtu.edu.cn/global-sjtu), 2017-2019   
 &emsp;[Antai College of Economics & Management (ACEM)](https://www.acem.sjtu.edu.cn/en/acem/message.html)
 
-**B.A.** Managerial Economics (With Highest Honors), [Southwestern University of Finance and Economics](https://e.swufe.edu.cn/International/International_Partners.htm), 2013-2017   
+**B.A.** Managerial Economics (With Highest Honors), [Southwestern University of Finance and Economics 西南财经大学](https://e.swufe.edu.cn/International/International_Partners.htm), 2013-2017   
 &emsp;[The School of Business Administration (SBA)](https://gs.swufe.edu.cn/english/about/Dean_s_message.htm) and [China Western Economic Research Center](https://www.weai.org/current-institutional-members/southwestern-university-of-finance-and-economics)
 
 
