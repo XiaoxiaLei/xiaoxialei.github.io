@@ -77,6 +77,8 @@ layout: default
 &emsp; ZN - Undergraduate: Renmin; MBA: ACEM, SJTU. <br>
 &emsp; &emsp; Master’s Thesis advisor [search in e-commerce] (2019) <br></p>
 
+</div>
+
 
 
 <!-- Advisor/Research Supervisor
