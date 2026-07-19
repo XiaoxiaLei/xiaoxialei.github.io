@@ -51,6 +51,6 @@ layout: default
 &emsp; &emsp; • Sichuan Province <br>
 &emsp; &emsp; • Organized by the China Society for Industrial and Applied Mathematics (SIAM) <br></p>
   
-  
+</div>  
   
 
