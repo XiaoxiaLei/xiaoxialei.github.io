@@ -67,17 +67,17 @@ layout: default
 
 
 <p><br></p>
-<h4>Community Service</h4> <br>
+<h4>Community Service</h4>
 
 
 
 <p><br></p>
-<h4>Conference Organization</h4> <br>
+<h4>Conference Organization</h4>
 
 
 
 <p><br></p>
-<h4>Consulting Work</h4> <br>
+<h4>Consulting Work</h4>
 
 <p style="text-align: justify;">
 &emsp; The <b>Longitudinal Expert AI Panel (LEAP)</b> Project of <b>Forecasting Research Institute (FRI)</b> (2025-present) <br></p>
