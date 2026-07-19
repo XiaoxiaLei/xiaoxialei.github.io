@@ -17,7 +17,7 @@ layout: default
 
 
 
-<p style="text-align: justify;"> I am an Assistant Professor of Management Science & Engineering and Huazhong Scholar at the <a href="https://english.hust.edu.cn/INTERNATIONAL_HUST/Global_Partnership/2.htm">School of Management</a> of <a href="http://english.hust.edu.cn/ABOUT/HUST_at_a_Glance.htm">Huazhong University of Science and Technology</a>. I am the Faculty Director of the Honors Program in <strong><i>Big Data and Analytics</i></strong> of <a href="https://www.timeshighereducation.com/cms-academic/sites/default/files/institution_downloads/2024-08/HUST%20Flyer.pdf">Qiming College</a>. I have previously worked as Data Scientist or Visiting Academic in the industry and academia for <a href="https://www.lufaxholding.com/">Lufax</a>, <a href="https://www.chinamoney.org.cn/english/">China Foreign Exchange Trade System & National Interbank Funding Center (CFETS)</a>, and some <a href="https://en.wikipedia.org/wiki/BATX">Big Techs</a> in China. </p>
+<p style="text-align: justify;"> I am an Assistant Professor of Management Science & Engineering and Huazhong Scholar at the <a href="https://english.hust.edu.cn/INTERNATIONAL_HUST/Global_Partnership/2.htm">School of Management (SOE)</a> of <a href="http://english.hust.edu.cn/ABOUT/HUST_at_a_Glance.htm">Huazhong University of Science and Technology</a>. I am the Faculty Director of the Honors Program in <strong><i>Big Data and Analytics</i></strong> of <a href="https://www.timeshighereducation.com/cms-academic/sites/default/files/institution_downloads/2024-08/HUST%20Flyer.pdf">Qiming College</a>. I have previously worked as Data Scientist or Visiting Academic in the industry and academia for the <a href="https://www.siem.sem.tsinghua.edu.cn/info/1106/1279.htm">Tsinghua Initiative on the Digital Economy (Greater Bay Area)</a>, <a href="https://www.lufaxholding.com/">Lufax</a>, <a href="https://www.chinamoney.org.cn/english/">China Foreign Exchange Trade System & National Interbank Funding Center (CFETS)</a>, and some <a href="https://en.wikipedia.org/wiki/BATX">Big Techs</a> in China. </p>
 
 <p><br></p>
 
@@ -39,7 +39,7 @@ layout: default
 
 #### Academic Positions
 
-[Huazhong University of Science and Technology 华中科技大学](https://english.hust.edu.cn/INTERNATIONAL_HUST/Global_Partnership/2.htm), [School of Management](http://english.cm.hust.edu.cn/About/Dean_s_Message1.htm), 2026-Now.  
+[Huazhong University of Science and Technology 华中科技大学](https://english.hust.edu.cn/INTERNATIONAL_HUST/Global_Partnership/2.htm), [School of Management (SOE)](http://english.cm.hust.edu.cn/About/Dean_s_Message1.htm), 2026-Now.  
 &emsp;Assistant Professor (Huazhong Scholar)
 
 [Texas A&M University](https://global.tamu.edu/gpi/agreements/university-partners.html), [Mays Business School](https://stories.tamu.edu/news/2022/05/20/eli-jones-and-the-business-of-transforming-lives/), 2023-2024.  
@@ -57,7 +57,7 @@ layout: default
 
 **B.A.** Managerial Economics, [Southwestern University of Finance and Economics 西南财经大学](https://e.swufe.edu.cn/International/International_Partners.htm), 2013-2017  
 &emsp;<strong><i> • With Highest Honors</i></strong><br>
-&emsp;[The School of Business Administration (SBA)](https://gs.swufe.edu.cn/english/about/Dean_s_message.htm) and [China Western Economic Research Center](https://www.weai.org/current-institutional-members/southwestern-university-of-finance-and-economics)
+&emsp;[School of Business Administration (SBA)](https://gs.swufe.edu.cn/english/about/Dean_s_message.htm) and [China Western Economic Research Center](https://www.weai.org/current-institutional-members/southwestern-university-of-finance-and-economics)
 
 
 
