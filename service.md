@@ -38,7 +38,7 @@ layout: default
 
 <h4> • Program Committee <h4>
 
-<p style="text-align: justify;">
+<p style="text-align: justify;font-weight: 50;">
 &emsp; NeurIPS Regulatable ML Workshop (RegML), 2024, 2025<br>
 &emsp; &emsp; • Specialized in (1) Economics of Artificial Intelligence; (2) Algorithms, Law, and Policy<br>
 &emsp; ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO’25, ’26)<br>
@@ -49,7 +49,7 @@ layout: default
 
 <h4> • Conference Reviewer <h4>
 
-<p style="text-align: justify;">
+<p style="text-align: justify;font-weight: 50;">
 &emsp; NeurIPS (Main Track, Position Paper Track)<br>
 &emsp; &emsp; • Specialized in (1) AI/ML for social sciences; (2) Socio-technical aspects of AI; (3) Human interaction in AI systems<br>
 &emsp; AAAI Workshop on AI Governance (2nd AIGOV)<br>
