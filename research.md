@@ -17,6 +17,13 @@ layout: default
 
 
 
+** denotes the lead author, # denotes equal contribution, * denotes the corresponding author, ## denotes solo author.
+
+† denotes regular track, research articles, conference main track; 
+‡ denotes special issue articles, fast track, research notes, frontiers, conference workshop; 
+§ denotes dialogue, letters, book review, commentary, conference tutorial.
+
+
 
 <div>
 <h3>Working Papers</h3>
