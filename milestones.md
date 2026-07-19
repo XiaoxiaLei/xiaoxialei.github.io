@@ -26,9 +26,9 @@ layout: default
 <p><br></p>
 
 <p style="text-align: justify;"> 
-06/2026: Officially started my career as an Assistant Professor @ HUST. Really a tight job market!<br>  
+06/2026: Officially started my career as an Assistant Professor @ HUST. --- Really a tight job market!<br>  
 12/2025: Finally passed the review of my Dissertation Reading Committee and Blind Peer Review from the Ministry of Education. --- The Chosen One. <br>
-12/2024: My paper was accepted for publication in <i>Management Science</i>. As my first publication, this would be a very special one for many years to come. Publication is hard!</p>
+12/2024: My paper was accepted for publication in <i>Management Science</i>. As my first publication, this would be a very special one for many years to come. --- Publication is hard!</p>
 
 <!-- 09/22/2022: *Towards a Machine Learning-Assisted Kernel with LAKE* is accepted to [ASPLOS'23](https://asplos-conference.org/asplos-2023-cfp/)!  
 05/23/2022: I will be joining Intel XFG this summer!  
