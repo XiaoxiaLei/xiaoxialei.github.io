@@ -99,7 +99,7 @@ layout: default
 &emsp; • Participant, Labor Union, 2026-.<br>
 &emsp; • Management Science & Engineering Faculty Search Committee <br></p>
 
-
+</div>
 
 
 
