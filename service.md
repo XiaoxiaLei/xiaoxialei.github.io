@@ -26,8 +26,7 @@ layout: default
 
 <h4>Editorial</h4> <br>
 
-<!-- <h5> • Journal Reviewer<h5><br> -->
- • Journal Reviewer <br>
+<h5> • Journal Reviewer <h5><br>
 
 <p style="text-align: justify;">
 &emsp; Information Economics and Policy (SSCI, JCR Q2, Renmin Journal Ranking A- in Economics Field)<br>
@@ -35,7 +34,7 @@ layout: default
 
 
 
- • Program Committee <br>
+<h5> • Program Committee <h5><br>
 
 <p style="text-align: justify;">
 &emsp; NeurIPS Regulatable ML Workshop (RegML), 2024, 2025<br>
@@ -46,7 +45,7 @@ layout: default
 
 
 
- • Conference Reviewer <br>
+<h5> • Conference Reviewer <h5><br>
 
 <p style="text-align: justify;">
 &emsp; NeurIPS (Main Track, Position Paper Track)<br>
@@ -88,12 +87,12 @@ layout: default
 <p style="text-align: justify;">
 <strong>Huazhong University of Science and Technology</strong><br>  
 
- • Participant, China Discipline Evaluation, 2026-.<br>
- • Director, The Honors Program in Big Data and Analytics of Qiming College, 2027–.<br>
- • Organizer, Research Seminar Series, 2026-.<br>
- • Participant, Pedagogical Research, 2027-.<br>
- • Participant, Labor Union, 2026-.<br>
- • Management Science & Engineering Faculty Search Committee <br></p>
+&emsp; • Participant, China Discipline Evaluation, 2026-.<br>
+&emsp; • Director, The Honors Program in Big Data and Analytics of Qiming College, 2027–.<br>
+&emsp; • Organizer, Research Seminar Series, 2026-.<br>
+&emsp; • Participant, Pedagogical Research, 2027-.<br>
+&emsp; • Participant, Labor Union, 2026-.<br>
+&emsp; • Management Science & Engineering Faculty Search Committee <br></p>
 
 
 
