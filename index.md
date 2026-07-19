@@ -38,9 +38,9 @@ layout: default
 #### Academic Positions
 
 [Huazhong University of Science and Technology](https://english.hust.edu.cn/INTERNATIONAL_HUST/Global_Partnership/2.htm), [School of Management](http://english.cm.hust.edu.cn/About/Dean_s_Message1.htm), 2026-Now.  
-&emsp;Assistant Professor (Huazhong Scholar)  
-09/01/2019: Officially started my PhD.  
-//2024: **I officially graduated from !** 
+&emsp;**Assistant Professor (Huazhong Scholar)**
+[Texas A&M University](https://global.tamu.edu/gpi/agreements/university-partners.html), [Mays Business School](https://stories.tamu.edu/news/2022/05/20/eli-jones-and-the-business-of-transforming-lives/), 2023-2024.  
+&emsp;Joint Ph.D. Student 
 
 <p><br></p>
 
