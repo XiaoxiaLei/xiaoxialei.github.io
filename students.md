@@ -24,7 +24,7 @@ layout: default
 <h3>Opening for Graduate Students</h3>
 <p><br></p>
 
-<p style="text-align: justify;">I am seeking at least 1 graduate student to work together. Senior undergraduate students @ HUST are also welcomed. Students will design and run research studies, analyze data, prepare publications, and be core members of the collective intellectual community. <br></p>
+<p style="text-align: justify;">I am seeking at least 1 graduate student to work together. <b>Senior undergraduate students @ HUST are also welcomed.</b> Students will design and run research studies, analyze data, prepare publications, and be core members of the collective intellectual community. <br></p>
 
 <p><br></p>
 
