@@ -49,8 +49,8 @@ Graduate Student Research and Presentation Travel Award, 2019-2024 <br>
 <i>Investigator:</i> Feasibility Analysis of the Intelligent Community Nursing Service (CNY 15,000), 2015 <br> 
 &emsp; Taking Chengdu Wenjiang District Xiaoxingtong Eldercare App as an Example <br>
 &emsp; National Undergraduate Training Program for Innovation and Entrepreneurship <br>
-<i>Research Assistant:</i> Trust, Food Certification and Consumer Behavior (CNY 200,000), 2014
-&emsp; National Natural Science Foundation of China (NSFC) [Grant 71303193]<br></p>
+<i>Research Assistant:</i> Trust, Food Certification and Consumer Behavior (CNY 200,000), 2014 <br>
+&emsp; National Natural Science Foundation of China (NSFC) [Grant 71303193] <br></p>
 
 
 
