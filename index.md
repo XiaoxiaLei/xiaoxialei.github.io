@@ -56,7 +56,7 @@ layout: default
 &emsp;[Antai College of Economics & Management (ACEM)](https://www.acem.sjtu.edu.cn/en/acem/message.html)
 
 **B.A.** Managerial Economics, [Southwestern University of Finance and Economics 西南财经大学](https://e.swufe.edu.cn/International/International_Partners.htm), 2013-2017  
-&emsp;<strong><i>With Highest Honors</i></strong><br>
+&emsp;<strong><i> • With Highest Honors</i></strong><br>
 &emsp;[The School of Business Administration (SBA)](https://gs.swufe.edu.cn/english/about/Dean_s_message.htm) and [China Western Economic Research Center](https://www.weai.org/current-institutional-members/southwestern-university-of-finance-and-economics)
 
 
