@@ -38,7 +38,7 @@ layout: default
 
 <p style="text-align: justify;">
 <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834"> Trade-offs in Leveraging External Data Capabilities: Evidence from a Field Experiment in an Online Search Market </a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/">Xiaoxia Lei (SJTU)</a>, <a href="https://chen-yixing.github.io/">Yixing Chen (Notre Dame)</a>, and <a href="https://sites.google.com/view/ananyasen/home">Ananya Sen (CMU)*</a>. (2024). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/"><i>Xiaoxia Lei (SJTU)</i></a>, <a href="https://chen-yixing.github.io/">Yixing Chen (Notre Dame)</a>, and <a href="https://sites.google.com/view/ananyasen/home">Ananya Sen (CMU)*</a>. (2024). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Management Science</b> († Regular Track, Information Systems Department) <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">[Journal]</a> <br>
 <p style="padding-left: 0.2em;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
@@ -63,7 +63,7 @@ layout: default
 <p style="text-align: justify;">
 <strong>Attention is All You Need: Data Sharing, Algorithmic Inference and Legislative Artifacts</strong><br>
 <!-- <a href="https://www.dropbox.com/scl/fo/u9q7kovryifgehqp2nwzd/AIJRWYzWQt3o7vInweCsuFo?rlkey=umob0j0m5171ljapesfam7gdd&amp;st=yrlrsjiu&amp;e=1&amp;dl=0"> Attention is All You Need: Data Sharing, Algorithmic Inference and Legislative Artifacts </a><br> -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/">Xiaoxia Lei (HUST)</a>, and <a href="https://www.sem.tsinghua.edu.cn/en/info/1219/7156.htm">Juan Feng (Tsinghua)</a>. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/"><i>Xiaoxia Lei (HUST)</i></a>, and <a href="https://www.sem.tsinghua.edu.cn/en/info/1219/7156.htm">Juan Feng (Tsinghua)</a>. <br>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Management Science</b> († Regular Track, Information Systems Department) <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">[Journal]</a> <br> -->
 <p style="padding-left: 0.2em;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
@@ -74,7 +74,7 @@ layout: default
 <p style="text-align: justify;">
 <strong>Crowd-Driven Inferential Signals</strong><br>
 <!-- <a href="https://www.dropbox.com/scl/fo/u9q7kovryifgehqp2nwzd/AIJRWYzWQt3o7vInweCsuFo?rlkey=umob0j0m5171ljapesfam7gdd&amp;st=yrlrsjiu&amp;e=1&amp;dl=0"> Crowd-Driven Inferential Signals </a><br> -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/">Xiaoxia Lei (HUST)</a>, <a href="https://www.mgmt.uestc.edu.cn/szxq.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1096&amp;wbnewsid=25629">Xuan Sun (UESTC)</a>, <a href="https://www.sem.tsinghua.edu.cn/en/info/1219/7156.htm">Juan Feng (Tsinghua)</a>, and <a href="https://www.acem.sjtu.edu.cn/en/faculty/houliwen.html">Liwen Hou (SJTU)</a>. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/"><i>Xiaoxia Lei (HUST)</i></a>, <a href="https://www.mgmt.uestc.edu.cn/szxq.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1096&amp;wbnewsid=25629">Xuan Sun (UESTC)</a>, <a href="https://www.sem.tsinghua.edu.cn/en/info/1219/7156.htm">Juan Feng (Tsinghua)</a>, and <a href="https://www.acem.sjtu.edu.cn/en/faculty/houliwen.html">Liwen Hou (SJTU)</a>. <br>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Management Science</b> († Regular Track, Information Systems Department) <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">[Journal]</a> <br> -->
 <p style="padding-left: 0.2em;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
@@ -90,7 +90,7 @@ layout: default
 <strong>网约车聚合算法下安全责任主体的平台治理投入决策分析<br>
 Multi-Agent System Governance Under the Ride-Sharing Aggregator Algorithms</strong><br>
 <!-- <a href="https://www.dropbox.com/scl/fo/u9q7kovryifgehqp2nwzd/AIJRWYzWQt3o7vInweCsuFo?rlkey=umob0j0m5171ljapesfam7gdd&amp;st=yrlrsjiu&amp;e=1&amp;dl=0"> Crowd-Driven Inferential Signals </a><br> -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/">Xiaoxia Lei (HUST)</a>, and <a href="https://www.acem.sjtu.edu.cn/en/faculty/houliwen.html">Liwen Hou (SJTU)</a>. </p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/"><i>Xiaoxia Lei (HUST)</i></a>, and <a href="https://www.acem.sjtu.edu.cn/en/faculty/houliwen.html">Liwen Hou (SJTU)</a>. </p>
  <!-- <br> -->
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Management Science</b> († Regular Track, Information Systems Department) <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">[Journal]</a> <br> -->
 <!-- <p style="padding-left: 0.2em;">
