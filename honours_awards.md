@@ -48,7 +48,7 @@ layout: default
 &emsp; Meritorious Award of Mathematical Contest in Modeling, (as the team leader), 2016 <br>
 &emsp; &emsp; • Organized by the SIAM/INFORMS/MAA/AMS/ASA/COMAP <br>
 &emsp; First Prize of the (China) Contemporary Undergraduate Mathematical Contest in Modeling (as the team leader), 2015 <br>
-&emsp; &emsp; • Sichuan province <br>
+&emsp; &emsp; • Sichuan Province <br>
 &emsp; &emsp; • Organized by the China Society for Industrial and Applied Mathematics <br></p>
   
   
