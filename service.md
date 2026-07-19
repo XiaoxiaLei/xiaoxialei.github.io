@@ -93,7 +93,7 @@ layout: default
 <strong>Huazhong University of Science and Technology</strong><br>  
 
 &emsp; • Participant, China Discipline Evaluation, 2026-.<br>
-&emsp; • Director, The Honors Program in Big Data and Analytics of Qiming College, 2027–.<br>
+&emsp; • Director, The Honors Program in <i>Big Data and Analytics</i> of Qiming College, 2027–.<br>
 &emsp; • Organizer, Research Seminar Series, 2026-.<br>
 &emsp; • Participant, Pedagogical Research, 2027-.<br>
 &emsp; • Participant, Labor Union, 2026-.<br>
