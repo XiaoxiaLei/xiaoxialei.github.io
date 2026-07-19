@@ -28,7 +28,7 @@ layout: default
 
 <p><br></p>
 
-<p style="text-align: justify;">I am particularly open to candidates who are interested in interdisciplinary research. Candidates with diverse academic background are welcomed! (e.g., Physics, Automatic Control, Computer Science, etc.) <br></p>
+<p style="text-align: justify;">I am particularly open to candidates who are interested in interdisciplinary research. Candidates with diverse academic background are welcomed! (e.g., Physics, Automatic Control, Computer Science) <br></p>
 
 <p><br></p>
 
@@ -93,4 +93,6 @@ Fan You, 2018 – 2022, Ph.D. in Operations, University of Colorado Boulder. Fir
 
 Mentor
 
-Shanava Saintolien, Spring 2023, Diverse Doctorates in Business program. -->
+Shanava Saintolien, Spring 2023, Diverse Doctorates in Business program. 
+
+, etc. -->
