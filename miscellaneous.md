@@ -69,7 +69,7 @@ Cat and Hiking. </p>
 <p style="text-align: justify;">
 Life is a good metaphor. Blaise Pascal once wrote, <i>“Man is only a reed, the weakest in nature, but he is a thinking reed.”</i> We shall not cease from exploration. We shall beat on, boats against the unknown. </p>
 
-
+</div>
 
 
 
