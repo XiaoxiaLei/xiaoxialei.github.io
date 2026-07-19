@@ -26,7 +26,7 @@ layout: default
 
 <p style="text-align: justify;">
 <strong>Huazhong University of Science and Technology</strong><br>  
-&emsp; The “university in the forest.” <br>
+&emsp; The “University in the Forest.” <br>
 &emsp; Near the East Lake of Wuhan. <br>
 &emsp; Strong in Engineering, Medicine, Journalism, and Management. <br>
 &emsp; Also famous for Quantitative Economics and Development Economics. Renowned scholars here: 
