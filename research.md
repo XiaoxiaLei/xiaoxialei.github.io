@@ -40,7 +40,7 @@ layout: default
 <p><br></p>
 
 <p style="text-align: justify;">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Data and Algorithm. AI & Society. Economics and Computation. Information, Technology and Innovation.</b></p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Data and Algorithm. | AI & Society. | Economics and Computation. | Information, Technology and Innovation.</b></p>
 
  
 
