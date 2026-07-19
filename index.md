@@ -15,7 +15,7 @@ layout: default
 <!-- <li><a href="./my_failed_projects.html">Failed</a></li> -->
 </ul>
 
-
+https://changjunap.xhd.cn/en/jianjie/
 
 <p style="text-align: justify;"> I am an Assistant Professor of Management Science & Engineering and Huazhong Scholar at the <a href="https://english.hust.edu.cn/INTERNATIONAL_HUST/Global_Partnership/2.htm">School of Management</a> of <a href="http://english.hust.edu.cn/ABOUT/HUST_at_a_Glance.htm">Huazhong University of Science and Technology</a>. I am the Faculty Director of the Honors Program in Big Data and Analytics of <a href="https://www.timeshighereducation.com/cms-academic/sites/default/files/institution_downloads/2024-08/HUST%20Flyer.pdf">Qiming College</a>. I have previously worked as Data Scientist or Outside Consultant in the industry and academia for <a href="https://www.lufaxholding.com/">Lufax</a>, <a href="https://www.chinamoney.org.cn/english/">China Foreign Exchange Trade System & National Interbank Funding Center (CFETS)</a>, and some <a href="https://en.wikipedia.org/wiki/BATX">Big Techs</a> in China. </p>
 
@@ -25,7 +25,7 @@ layout: default
 
 <p><br></p>
 
-<p style="text-align: justify;"> Previously, I got my Ph.D. (with MPhil.) in <a href="https://www.acem.sjtu.edu.cn/en/acem/message.html">Management Science and Engineering (MS&E)</a> at Antai College of Economics and Management (ACEM), <a href="https://www.acem.sjtu.edu.cn/en/intl/international-partners.html">Shanghai Jiao Tong University</a> and a B.A. in <a href="https://gs.swufe.edu.cn/english/about/Dean_s_message.htm">Management</a> (with a focus on Managerial Economics) from the School of Business Administration (SBA) of <a href="https://gs.swufe.edu.cn/english/Internationalization/Partner_Universities.htm">Southwestern University of Finance and Economics</a>. Before college, I was in the Hunan Provincial Natural Sciences Talent Class, where I learned a bunch of fun stuff, including college physics, data structure and algorithms, the concept of "Artificial Intelligence", and the programming language "Pascal". </p>
+<p style="text-align: justify;"> Previously, I got my Ph.D. (with MPhil.) in <a href="https://www.acem.sjtu.edu.cn/en/acem/message.html">Management Science and Engineering (MS&E)</a> at Antai College of Economics and Management (ACEM), <a href="https://www.acem.sjtu.edu.cn/en/intl/international-partners.html">Shanghai Jiao Tong University</a> and a B.A. in <a href="https://gs.swufe.edu.cn/english/about/Dean_s_message.htm">Management</a> (with a focus on Managerial Economics) from the School of Business Administration (SBA) of <a href="https://gs.swufe.edu.cn/english/Internationalization/Partner_Universities.htm">Southwestern University of Finance and Economics</a>. Before college, I was in the <a href="https://changjunap.xhd.cn/en/jianjie/">Hunan Provincial Natural Sciences Talent Class</a>, where I learned a bunch of fun stuff, including college physics, data structure and algorithms, the concept of "Artificial Intelligence", and the programming language "Pascal". </p>
 
 <!-- , My research aims to develop novel machine learning algorithms for data-driven decision making practices, with focus on bandits and multitask learning. In addition, I also seek to provide safe and robust machine learning solutions. My work has been motivated by real-world business applications in healthcare operations, textual analytics, and dynamic pricing. </p>
  
