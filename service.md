@@ -15,3 +15,49 @@ layout: default
 <!-- <li><a href="./my_failed_projects.html">Failed</a></li> -->
 </ul>
 
+
+
+<div>
+
+<p><br></p>
+<h3>External Service</h3>
+<p><br></p>
+
+#### Editorial
+
+
+
+#### Community Service
+
+
+
+#### Conference Organization
+
+
+
+#### Consulting Work
+
+<p style="text-align: justify;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Data and Algorithm. | AI & Society. | Economics and Computation. | Information, Technology and Innovation.</b></p>
+
+ 
+
+<p><br></p>
+<p><br></p>
+<h3>Internal Service</h3>
+<p><br></p>
+
+<p style="text-align: justify;">
+<strong>Huazhong University of Science and Technology</strong><br>  
+&emsp; <b>Computational Text Analysis (Text as Data)</b>, Undergraduate core <br> 
+&emsp; &emsp; 2027, 2028, 2029<br>
+&emsp; <b>Data/AI-Driven Decision Support Systems: Theory and Practice</b>, Undergraduate/Graduate core <br>
+&emsp; &emsp; 2027, 2028, 2029<br></p>
+
+
+
+
+
+
+
+
