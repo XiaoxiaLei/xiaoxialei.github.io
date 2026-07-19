@@ -47,7 +47,7 @@ Message from the Dean <a href="https://www.acem.sjtu.edu.cn/en/faculty/chenfangr
 
 <p style="text-align: justify;">
 <strong>School of Business Administration (SBA), Southwestern University of Finance and Economics</strong><br>  
-Message from the Dean <a href="https://lerner.udel.edu/faculty-staff-directory/bintong-chen/">Professor Bintong Chen</a> and Executive Dean <a href="https://scholar.google.com/citations?user=dRL7HngAAAAJ&hl=en">Professor Gang Kou</a> during my college years: <b>Rooted in the West, Serving the Nation and the World.</b> With the help of the Wharton School, University of Oxford, University of Delaware, Goldman Sachs, Disney and other high-end international partners, we (SBA) offer international general management knowledge and broad global perspective and in-depth international practice experience to students.</p>
+Message from the Dean <a href="https://lerner.udel.edu/faculty-staff-directory/bintong-chen/">Professor Bintong Chen</a> and Executive Dean <a href="https://scholar.google.com/citations?user=dRL7HngAAAAJ&hl=en">Professor Gang Kou</a> during my college years: <b>Rooted in the West, Serving the Nation and the World.</b> With the help of the Wharton School, University of Oxford, University of Delaware, Goldman Sachs, Disney, and other international partners, we (SBA) offer general management knowledge, broad global vision and in-depth practical experience to students.</p>
 
 
 
