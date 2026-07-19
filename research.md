@@ -39,6 +39,7 @@ layout: default
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Management Science</b> († Regular Track, Information Systems Department) [<a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">Journal</a>] <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
  • <a href="https://questromworld.bu.edu/platformstrategy/">2024 Platform Strategy Research Symposium</a></span>
+ 
  • <a href="https://questromworld.bu.edu/platformstrategy/">2024 Platform Strategy Research Symposium</a></span>
 </p>
 
