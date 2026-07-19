@@ -170,6 +170,19 @@ Cited by "Issues Paper on Data for Development", <i>United Nations Conference on
 
 
 
+<p><br></p>
+<p><br></p>
+<h3>Additional Experience </h3>
+<p><br></p>
+
+<p style="text-align: justify;">
+<a href="https://communities.aisnet.org/sigdite/home">The Association for Information Systems (AIS) SIG DITE (Digital Innovation, Transformation, & Entrepreneurship)</a> <br>
+&emsp; • PhD Research Academy Fellow, 2023-2024 <br>
+<a href="https://www.nber.org/conferences/digitization-tutorial-spring-2021">NBER Digitization Tutorial & Doctoral Consortium</a> <br>
+&emsp; • Doctoral Consortium Fellow, 2021 <br>
+<a href="https://www.jilaee.org/events/jilaee-eworkshop-field-experiments-in-economics">JILAEE eWorkshop & Early Career Workshop - Field Experiments in Economics (University of Chicago | UCEMA)</a> <br>
+&emsp; • Early Career Workshop Fellow, 2020 <br></p>
+
 </div>
 
 
