@@ -34,7 +34,7 @@ layout: default
 <div>
 
 <h3>Accepted and Published Papers</h3>
-<p><br></p>
+<!-- <p><br></p> -->
 
 <p style="text-align: justify;">
 <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834"> Trade-offs in Leveraging External Data Capabilities: Evidence from a Field Experiment in an Online Search Market </a><br>
@@ -58,7 +58,7 @@ layout: default
 
 <p><br></p>
 <h3>Working Papers</h3>
-<p><br></p>
+<!-- <p><br></p> -->
 
 <p style="text-align: justify;">
 <strong>Attention is All You Need: Data Sharing, Algorithmic Inference and Legislative Artifacts</strong><br>
@@ -69,7 +69,7 @@ layout: default
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
  • 2026 Conference, Fall</span></p></p>
 
-<p><br></p>
+<!-- <p><br></p> -->
 
 <p style="text-align: justify;">
 <strong>Crowd-Driven Inferential Signals</strong><br>
