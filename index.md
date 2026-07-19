@@ -70,13 +70,6 @@ layout: default
 
 
 
-<p><br></p>
-
-<img style="width:400px;height:200px;" src="/assets/img/wordcloud.png"/>
-
-
-
-
 <!-- <div class="xiaoxia_footer">
 <p>Copyright©2023-2023  xiaoxialei.com  .All Rights Reserved</p>
 </div> -->
