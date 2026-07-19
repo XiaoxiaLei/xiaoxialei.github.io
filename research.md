@@ -61,7 +61,7 @@ layout: default
 <p><br></p>
 
 <p style="text-align: justify;">
-Attention is All You Need: Data Sharing, Algorithmic Inference and Legislative Artifacts<br>
+**Attention is All You Need: Data Sharing, Algorithmic Inference and Legislative Artifacts**<br>
 <!-- <a href="https://www.dropbox.com/scl/fo/u9q7kovryifgehqp2nwzd/AIJRWYzWQt3o7vInweCsuFo?rlkey=umob0j0m5171ljapesfam7gdd&amp;st=yrlrsjiu&amp;e=1&amp;dl=0"> Attention is All You Need: Data Sharing, Algorithmic Inference and Legislative Artifacts </a><br> -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/">Xiaoxia Lei (HUST)</a>, and <a href="https://www.sem.tsinghua.edu.cn/en/info/1219/7156.htm">Juan Feng (Tsinghua)</a>. <br>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Management Science</b> († Regular Track, Information Systems Department) <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">[Journal]</a> <br> -->
@@ -72,13 +72,13 @@ Attention is All You Need: Data Sharing, Algorithmic Inference and Legislative A
 <p><br></p>
 
 <p style="text-align: justify;">
-Crowd-Driven Inferential Signals<br>
+**Crowd-Driven Inferential Signals**<br>
 <!-- <a href="https://www.dropbox.com/scl/fo/u9q7kovryifgehqp2nwzd/AIJRWYzWQt3o7vInweCsuFo?rlkey=umob0j0m5171ljapesfam7gdd&amp;st=yrlrsjiu&amp;e=1&amp;dl=0"> Crowd-Driven Inferential Signals </a><br> -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/">Xiaoxia Lei (HUST)</a>, <a href="https://www.mgmt.uestc.edu.cn/szxq.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1096&amp;wbnewsid=25629">Xuan Sun (UESTC)</a>, <a href="https://www.sem.tsinghua.edu.cn/en/info/1219/7156.htm">Juan Feng (Tsinghua)</a>, and <a href="https://www.acem.sjtu.edu.cn/en/faculty/houliwen.html">Liwen Hou (SJTU)</a>. <br>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Management Science</b> († Regular Track, Information Systems Department) <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">[Journal]</a> <br> -->
 <p style="padding-left: 0.2em;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
- • International Academic Symposium: Organizational Change and Business Model Innovation in the AI Era, Best Paper Award, 2026</span><br>
+ • International Symposium: Organizational Change and Business Model Innovation in the AI Era, Best Paper Award, 2026</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  • 2024 SJTU ACEM-IACMR Workshop on Organizational Management and Strategic Management Research<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
