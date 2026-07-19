@@ -51,11 +51,11 @@ layout: default
 
 #### Education
 
-**Ph.D.** **MS&E (Information, Technology and Innovation)**, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/global-sjtu), 2019-2025   
-**MPhil.** **MS&E (Decision Science and Operations Research)**, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/global-sjtu), 2017-2019   
+**Ph.D.** MS&E (Information, Technology and Innovation), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/global-sjtu), 2019-2025   
+**MPhil.** MS&E (Decision Science and Operations Research), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/global-sjtu), 2017-2019   
 &emsp;[Antai College of Economics & Management (ACEM)](https://www.acem.sjtu.edu.cn/en/acem/message.html)
 
-**B.A.** **Managerial Economics (With Highest Honors)**, [Southwestern University of Finance and Economics](https://e.swufe.edu.cn/International/International_Partners.htm), 2013-2017   
+**B.A.** Managerial Economics (With Highest Honors), [Southwestern University of Finance and Economics](https://e.swufe.edu.cn/International/International_Partners.htm), 2013-2017   
 &emsp;[The School of Business Administration (SBA)](https://gs.swufe.edu.cn/english/about/Dean_s_message.htm) and [China Western Economic Research Center](https://www.weai.org/current-institutional-members/southwestern-university-of-finance-and-economics)
 
 
