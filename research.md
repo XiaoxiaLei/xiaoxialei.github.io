@@ -32,8 +32,9 @@ layout: default
 <div>
 
 <h3>Accepted and Published Papers</h3>
+<p><br></p>
  
-<p><a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">&nbsp;&nbsp;&nbsp;&nbsp; Trade-offs in Leveraging External Data Capabilities: Evidence from a Field Experiment in an Online Search Market </a><br>
+<p><a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834"> Trade-offs in Leveraging External Data Capabilities: Evidence from a Field Experiment in an Online Search Market </a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/">Xiaoxia Lei (SJTU)</a>, <a href="https://chen-yixing.github.io/">Yixing Chen (Notre Dame)</a>, and <a href="https://sites.google.com/view/ananyasen/home">Ananya Sen (CMU)*</a>. (2024). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Management Science</b> († Regular Track, Information Systems Department) [<a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">Journal</a>] <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> • <a href="https://questromworld.bu.edu/platformstrategy/">2024 Platform Strategy Research Symposium</a></span></p>
@@ -52,7 +53,8 @@ layout: default
 
 <p><br></p>
 <h3>Working Papers</h3>
- 
+<p><br></p>
+
 <p><a href="https://arxiv.org/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning Across </a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(with )<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major Revision, <b>Management Science</b><br>
@@ -62,6 +64,7 @@ layout: default
 
 <p><br></p>
 <h3>Publications</h3>
+<p><br></p>
 
 <p><a href="https://proceedings.mlr.press/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reinforcement Learning</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(with )<br>
@@ -72,7 +75,8 @@ layout: default
 
 <p><br></p>
 <h3>Software</h3>
-  
+<p><br></p>
+
 <p><a href="https://github.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R Package</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(with )<br></p>
 </div>
