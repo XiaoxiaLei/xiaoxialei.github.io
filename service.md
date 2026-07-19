@@ -24,17 +24,18 @@ layout: default
 <h3>External Service</h3>
 <p><br></p>
 
-<h4>Editorial</h4> <br>
+<h4>Editorial</h4> 
 
-<h4> • Journal Reviewer <h4><br>
-
+<h4> • Journal Reviewer <h4>
+ • Journal Reviewer 
+  
 <p style="text-align: justify;">
 &emsp; Information Economics and Policy (SSCI, JCR Q2, Renmin Journal Ranking A- in Economics Field)<br>
 &emsp; Decision Sciences (SSCI, JCR Q2, FMS-B)<br></p>
 
 
 
-<h4> • Program Committee <h4><br>
+<h4> • Program Committee <h4>
 
 <p style="text-align: justify;">
 &emsp; NeurIPS Regulatable ML Workshop (RegML), 2024, 2025<br>
@@ -45,7 +46,7 @@ layout: default
 
 
 
-<h4> • Conference Reviewer <h4><br>
+<h4> • Conference Reviewer <h4>
 
 <p style="text-align: justify;">
 &emsp; NeurIPS (Main Track, Position Paper Track)<br>
@@ -64,14 +65,17 @@ layout: default
 
 
 
+<p><br></p>
 <h4>Community Service</h4> <br>
 
 
 
+<p><br></p>
 <h4>Conference Organization</h4> <br>
 
 
 
+<p><br></p>
 <h4>Consulting Work</h4> <br>
 
 <p style="text-align: justify;">
