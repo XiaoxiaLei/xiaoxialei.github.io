@@ -24,10 +24,11 @@ layout: default
 <h3>External Service</h3>
 <p><br></p>
 
+
+
 <h4>Editorial</h4> 
 
 <h4> • Journal Reviewer <h4>
- • Journal Reviewer 
   
 <p style="text-align: justify;">
 &emsp; Information Economics and Policy (SSCI, JCR Q2, Renmin Journal Ranking A- in Economics Field)<br>
