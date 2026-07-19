@@ -45,10 +45,11 @@ layout: default
  
 
 <p><br></p>
+<p><br></p>
 <h3>Accepted and Published Papers</h3>
 <p><br></p>
 
-<p style="padding-left: 0.2em; text-align: justify;">
+<p style="text-align: justify;">
 <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834"> Trade-offs in Leveraging External Data Capabilities: Evidence from a Field Experiment in an Online Search Market </a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/"><i>Xiaoxia Lei (SJTU)</i></a>, <a href="https://chen-yixing.github.io/">Yixing Chen (Notre Dame)</a>, and <a href="https://sites.google.com/view/ananyasen/home">Ananya Sen (CMU)*</a>. (2024). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Management Science</b> († Regular Track, Information Systems Department) <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">[Journal]</a> <br>
@@ -68,6 +69,7 @@ layout: default
 
 
 
+<p><br></p>
 <p><br></p>
 <h3>Working Papers</h3>
 <p><br></p>
@@ -116,6 +118,7 @@ Multi-Agent System Governance Under the Ride-Sharing Aggregator Algorithms</stro
 
 
 <p><br></p>
+<p><br></p>
 <h3>Work in Progress (Selected)</h3>
 <p><br></p>
 
@@ -139,6 +142,7 @@ Multi-Agent System Governance Under the Ride-Sharing Aggregator Algorithms</stro
 
 
 <p><br></p>
+<p><br></p>
 <h3>Refereed Conference Proceedings </h3>
 <p><br></p>
 
@@ -148,11 +152,13 @@ Multi-Agent System Governance Under the Ride-Sharing Aggregator Algorithms</stro
 
 
 <p><br></p>
+<p><br></p>
 <h3>Book Chapters and Other Writings </h3>
 <p><br></p>
 
 
 
+<p><br></p>
 <p><br></p>
 <h3>Press, Blogs, and Other Mentions </h3>
 <p><br></p>
