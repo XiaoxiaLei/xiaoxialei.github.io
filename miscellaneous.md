@@ -29,7 +29,7 @@ layout: default
 &emsp; The “University in the Forest.” <br>
 &emsp; Near the East Lake of Wuhan. <br>
 &emsp; Strong in Engineering, Medicine, Journalism, and Management. <br>
-&emsp; Also famous for Quantitative Economics and Development Economics. Renowned scholars here: 
+&emsp; Also famous for Quantitative Economics and Development Economics. Renowned scholars here: <br>
 &emsp; <a href="https://en.wikipedia.org/wiki/Zhang_Peigang">Professor Peigang Zhang</a> and <strong>Professor Shaogong Lin</strong>
 (I'm new here. Correct me if I am wrong!)</p>.
 
