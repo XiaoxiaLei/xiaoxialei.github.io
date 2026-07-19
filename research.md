@@ -48,7 +48,7 @@ layout: default
 <h3>Accepted and Published Papers</h3>
 <p><br></p>
 
-<p style="text-align: justify;">
+<p style="text-align: justify; padding-left: 0.2em;">
 <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834"> Trade-offs in Leveraging External Data Capabilities: Evidence from a Field Experiment in an Online Search Market </a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://xiaoxialei.com/"><i>Xiaoxia Lei (SJTU)</i></a>, <a href="https://chen-yixing.github.io/">Yixing Chen (Notre Dame)</a>, and <a href="https://sites.google.com/view/ananyasen/home">Ananya Sen (CMU)*</a>. (2024). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Management Science</b> († Regular Track, Information Systems Department) <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">[Journal]</a> <br>
@@ -143,18 +143,18 @@ Multi-Agent System Governance Under the Ride-Sharing Aggregator Algorithms</stro
 <p><br></p>
 
 <p style="text-align: justify;">
-(Only top CS Conferences in <a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/">(CCF-A)</a> list and <a href="https://csrankings.org/#/index?all&amp;asia">CSRankings</a> list.)</p>
+(Only top CS Conferences in <a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/">CCF-A</a> list and <a href="https://csrankings.org/#/index?all&amp;asia">CSRankings</a> list.)</p>
 
 
 
 <p><br></p>
-<h3>Book Chapters and Other Writings </a></h3>
+<h3>Book Chapters and Other Writings </h3>
 <p><br></p>
 
 
 
 <p><br></p>
-<h3>Press, Blogs, and Other Mentions </a></h3>
+<h3>Press, Blogs, and Other Mentions </h3>
 <p><br></p>
 
 <p style="text-align: justify;">
