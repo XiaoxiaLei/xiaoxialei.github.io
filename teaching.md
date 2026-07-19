@@ -69,7 +69,7 @@ layout: default
 &emsp; &emsp; Two slots, including one <i>English-only</i> slot for international exchange students from the U.S., Europe, South America and Asia.<br>
 &emsp; <b>Advanced Operations Research</b>, PhD core (2018) <br></p>
 
-
+</div>
 
 
 
