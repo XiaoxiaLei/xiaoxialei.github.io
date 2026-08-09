@@ -30,7 +30,7 @@
   // }
 
 }
-  
+
 
 
 /* iPad默认样式 (中屏幕) */
@@ -55,26 +55,26 @@
   
 
   
-  // .wrapper header {
-  //   display: none;
-  // }
+  .wrapper header {
+    display: none;
+  }
   
-  // .wrapper .site-title {
-  //   // display: none;
-  //   margin-right: 720px; /* 通过外边距向右移动 */
-  // }
+  .wrapper .site-title {
+    // display: none;
+    margin-right: 720px; /* 通过外边距向右移动 */
+  }
   
-  // .wrapper .site.logo {
-  //   display: none;
-  // }
+  .wrapper .site.logo {
+    display: none;
+  }
   
-  // .wrapper dl {
-  //   display: none;
-  // }
+  .wrapper dl {
+    display: none;
+  }
   
-  // .wrapper img {
-  //   display: none;
-  // }
+  .wrapper img {
+    display: none;
+  }
 
 
   
@@ -83,10 +83,10 @@
   // }
 
   body {
-    transform: translateX(-360px); /* 向左移动 50px */
+    // transform: translateX(-360px); /* 向左移动 50px */
+    margin-left: -350px
   }
 
-  
 }
 
 
