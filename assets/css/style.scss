@@ -2,7 +2,7 @@
 ---
 
 /* 电脑端默认样式 (大屏幕) */
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 1200px) {
   
   @import "jekyll-theme-minimal";
   
@@ -18,22 +18,172 @@
 
 
 
-/* 手机端样式 (屏幕宽度小于等于 1000px 时生效) */
+/* iPad默认样式 (中屏幕) */
+@media screen and (min-width: 1100px) and (max-width: 1200px) {
+
+  @import "jekyll-theme-minimal";
+
+  // /* Apply border-box sizing globally */
+  // html {
+  //   box-sizing: border-box;
+  //   overflow-x: auto; /* Stops horizontal overflow */
+  // }
+
+}
+  
+
+
+/* iPad默认样式 (中屏幕) */
+@media screen and (min-width: 1000px) and (max-width: 1100px) {
+
+  @import "jekyll-theme-minimal";
+
+  // body > *:not(section) {
+  //   display: none !important;
+  // }
+
+  // .wrapper { display: none; }
+
+  // /* 隐藏 title 元素并释放其占用的空间 */
+  // .config-title, [data-key="title"], .title-element {
+  //   display: none;
+  // }
+
+  // .site-title {
+  //   display: none;
+  // }
+  
+
+  
+  // .wrapper header {
+  //   display: none;
+  // }
+  
+  // .wrapper .site-title {
+  //   // display: none;
+  //   margin-right: 720px; /* 通过外边距向右移动 */
+  // }
+  
+  // .wrapper .site.logo {
+  //   display: none;
+  // }
+  
+  // .wrapper dl {
+  //   display: none;
+  // }
+  
+  // .wrapper img {
+  //   display: none;
+  // }
+
+
+  
+  // .wrapper section {
+  //   transform: translateX(-360px); /* 往左移动 50px */
+  // }
+
+  body {
+    transform: translateX(-360px); /* 向左移动 50px */
+  }
+
+  
+}
+
+
+
+/* 手机端样式 (屏幕宽度小于等于 900px 时生效) */
 @media screen and (max-width: 1000px) {
   
-  img, table, pre, code {
+  // @import "jekyll-theme-minimal";
+
+  /* Apply border-box sizing globally */
+  html {
+    box-sizing: border-box;
+    overflow-x: auto; /* Stops horizontal overflow */
+  }
+  
+  /* 限制所有图片、视频和表格最大宽度，防止撑破边界 */
+  img, video, table {
     max-width: 100%;
     box-sizing: border-box;
-    word-break: break-all;
+    overflow-x: auto; /* Stops horizontal overflow */
+  }
+  
+  /* 允许长单词或连续英文/链接自动换行 */
+  p, li, blockquote {
+    word-break: break-word;
+    overflow-wrap: break-word;
+    overflow-x: auto; /* Stops horizontal overflow */
+  }
+  
+  /* 代码块超出时允许在 iPad 上滑动浏览而不是溢出 */
+  pre, code {
+    max-width: 100%;
+    overflow-x: auto;
+    white-space: pre-wrap;
     word-wrap: break-word;
   }
   
+  /* 表格支持滚动 */
+  div.table-wrapper, table {
+    overflow-x: auto;
+    display: block;
+  }
+  
   body {
-    overflow-x: hidden;
+    overflow-x: auto;
   }
   
 }
 
 
 
-// @import "jekyll-theme-minimal";
+// 设备类型 物理分辨率 (Physical px) CSS逻辑分辨率/视口 (Logical px) 像素比 (DPR)
+// 主流笔记本/PC 1366 × 768 / 1920 × 1080 1366 × 768 / 1920 × 1080 1
+// 标准 iPad (9.7/10.2寸) 2048 × 1536 1024 × 768 2
+// iPad Pro (11寸) 2388 × 1668 1194 × 834 2
+// iPad Pro (12.9寸) 2732 × 2048 1366 × 1024 2
+
+
+
+// 以下为  @import "jekyll-theme-minimal"; 模版文件原始配置
+
+// @media print, screen and (max-width: 720px) {
+//   body {
+//     word-wrap:break-word;
+//   }
+
+//   header {
+//     padding:0;
+//   }
+
+//   header ul, header p.view {
+//     position:static;
+//   }
+
+//   pre, code {
+//     word-wrap:normal;
+//   }
+// }
+
+// @media print, screen and (max-width: 480px) {
+//   body {
+//     padding:15px;
+//   }
+
+//   .downloads {
+//     width:99%;
+//   }
+
+//   .downloads li, .downloads li + li + li {
+//     width:33%;
+//   }
+// }
+
+// @media print {
+//   body {
+//     padding:0.4in;
+//     font-size:12pt;
+//     color:#444;
+//   }
+// }
