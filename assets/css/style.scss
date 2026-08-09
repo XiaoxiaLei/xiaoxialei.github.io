@@ -133,6 +133,13 @@
   body {
     overflow-x: auto;
     text-align: left;
+    
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-text-size-adjust: 100%; /* Prevents iOS Chrome text autosizing */
+    text-size-adjust: 100%;
+    
+    letter-spacing: normal;
+    
   }
   
 }
