@@ -26,6 +26,8 @@ layout: default
 <p><br></p>
 
 <p style="text-align: justify;"> 
+<i>Principal investigator:</i> HUST Start-Up Grant for New Faculty, 2026 <br> 
+&emsp; The Fundamental Research Funds for the Central Universities, Huazhong University of Science and Technology <br>   
 <i>Principal investigator:</i> API credits for 2 years (worth USD 3,000), 2024 <br> 
 &emsp; OpenAI Researcher Access Program <br> 
 <i>Sub-Investigator:</i> Security Governance of Ride-sharing Aggregators (CNY 480,000), 2022 <br> 
