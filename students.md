@@ -22,7 +22,7 @@ layout: default
 
 <p><br></p>
 <p><hr style="width: 85%; margin-left: 30px;"></p>
-<h3>Opening for Graduate Students</h3>
+<h3>Opening for Undergraduate and Graduate Students</h3>
 <p><br></p>
 
 <p style="text-align: justify;">I am seeking at least 2 Undergraduate-MPhil (启明实验班本硕连读) student @ HUST to work together. <b>Senior undergraduate students are preferred. Graduate students are also welcome if I could be your co-advisor with the approval of your principle advisor.</b> Students will design and run research studies, analyze data, prepare publications, and be core members of the collective intellectual community. <br></p>
