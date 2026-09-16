@@ -45,8 +45,10 @@ layout: default
 
 <p><br></p>
 
-<b>Graduate Program Code: Intelligent Optimization and Managerial Decision-Making, Data-Driven Decision Intelligence, [120100管理科学与工程 05 (全日制)智能优化与管理决策]</b>
-<b>Undergraduate Program Code: Big Data and Analytics, [大数据管理与应用(120108T)]</b>
+<p style="text-align: justify;"><b>Graduate Program Code: Intelligent Optimization and Managerial Decision-Making, Data-Driven Decision Intelligence<br>
+  研究生学科专业名称及代码、研究方向: [120100管理科学与工程 05 (全日制)智能优化与管理决策]</b> <br></p>
+<p style="text-align: justify;"><b>Undergraduate Program Code: Big Data and Analytics<br>
+  本科生学科专业名称及代码、研究方向: [大数据管理与应用(120108T)]</b> <br></p>
 
 
 
