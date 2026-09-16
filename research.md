@@ -83,7 +83,11 @@ layout: default
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Management Science</b> († Regular Track, Information Systems Department) <a href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.01834">[Journal]</a> <br> -->
 <p style="padding-left: 0.2em;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
- • 2026 Conference, Fall</span></p></p>
+ • </span></p></p>
+
+<!-- 2026 Conference, Fall -->
+
+
 
 <!-- <p><br></p> -->
 
@@ -95,6 +99,9 @@ layout: default
 <p style="padding-left: 0.2em;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
  • International Symposium: Organizational Change and Business Model Innovation in the AI Era, Best Paper Award, 2026</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ • 2026 IACMR-AOM-HNU International Conference on Research Paradigms in Management Science in the Age of Artificial Intelligence<br>
+<!-- International Conference and Paper Development Workshop on “Research Paradigms in Management Science in the Age of Artificial Intelligence” -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  • 2024 SJTU ACEM-IACMR Workshop on Organizational Management and Strategic Management Research<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
