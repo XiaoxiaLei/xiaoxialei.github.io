@@ -25,7 +25,7 @@ layout: default
 <h3>Opening for Undergraduate and Graduate Students</h3>
 <p><br></p>
 
-<p style="text-align: justify;">I am seeking at least 2 Undergraduate-MPhil (启明实验班本硕连读) student @ HUST to work together. <b>Senior undergraduate students are preferred. Graduate students are also welcome if I could be your co-advisor with the approval of your primary advisor.</b> Students will design and run research studies, analyze data, prepare publications, and be core members of the collective intellectual community. <br></p>
+<p style="text-align: justify;">I am seeking at least 4 Undergraduate-MPhil (启明实验班本硕连读) student @ HUST to work together. <b>Senior undergraduate students are preferred. Graduate students are also welcome if I could be your co-advisor with the approval of your primary advisor.</b> Students will design and run research studies, analyze data, prepare publications, and be core members of the collective intellectual community. <br></p>
 
 <p><br></p>
 
@@ -42,6 +42,11 @@ layout: default
 <p><br></p>
 
 <p style="text-align: justify;">Please send your CV, and statement of interest (two pages max) to my email. <br></p>
+
+<p><br></p>
+
+<b>Graduate Program Code: Intelligent Optimization and Managerial Decision-Making, Data-Driven Decision Intelligence, [120100管理科学与工程 05 (全日制)智能优化与管理决策]</b>
+<b>Undergraduate Program Code: Big Data and Analytics, [大数据管理与应用(120108T)]</b>
 
 
 
