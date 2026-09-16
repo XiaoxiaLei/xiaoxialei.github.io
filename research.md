@@ -210,7 +210,7 @@ Cited by "Issues Paper on Data for Development", <i>United Nations Conference on
 <p style="text-align: justify;">
 <a href="http://www.sesc.org.cn/htm/index.htm">Systems Engineering Society of China (SESC) </a>, <i>Member</i> <br>
 <!-- &emsp; • PhD Research Academy Fellow <br> -->
-<a href="http://www.csf-sim.org.cn/">China Simulation Federation (CSF) </a>, <i>Member</i> <br>
+<a href="http://www.csf-sim.org.cn/">China Simulation Federation (CSF) </a>, <i>Lifetime Member</i> <br>
 <!-- &emsp; • PhD Research Academy Fellow <br> -->
 <a href="http://www.sesc.org.cn/htm/column/column317_0.htm">SESC Chapter: Data Science & Knowledge Systems Engineering (SESC-DS&KSE)</a>, <i>Member</i> <br>
 <!-- &emsp; • PhD Research Academy Fellow <br> -->
