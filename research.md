@@ -100,7 +100,7 @@ layout: default
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class='award'> 
  • International Symposium: Organizational Change and Business Model Innovation in the AI Era, Best Paper Award, 2026</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- • 2026 IACMR-AOM-HNU International Conference on Research Paradigms in Management Science in the Age of Artificial Intelligence<br>
+ • 2026 IACMR-AOM-HNU International Conference on Research Paradigms in Management Science in the Age of AI<br>
 <!-- International Conference and Paper Development Workshop on “Research Paradigms in Management Science in the Age of Artificial Intelligence” -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  • 2024 SJTU ACEM-IACMR Workshop on Organizational Management and Strategic Management Research<br>
