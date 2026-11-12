@@ -41,10 +41,10 @@ layout: default
 <strong>Huazhong University of Science and Technology</strong><br>  
 &emsp; <b>Computational Text Analysis (Text as Data)</b>, Undergraduate core <br> 
 &emsp; &emsp; 2027, 2028<br>
-&emsp; &emsp; Combined class of two different majors: (1) Big Data and Analytics, (2) Supply Chain Management (Industrial Engineering Dual Degree) <br> 
+&emsp; &emsp; Combined class of two different majors: (1) Big Data and Analytics, (2) Supply Chain Management (IE Dual Degree) <br> 
 &emsp; <b>Multimodal Data Analysis</b>, Undergraduate core <br>
 &emsp; &emsp; 2029<br>
-&emsp; &emsp; Combined class of two different majors: (1) Big Data and Analytics, (2) Supply Chain Management (Industrial Engineering Dual Degree) <br> 
+&emsp; &emsp; Combined class of two different majors: (1) Big Data and Analytics, (2) Supply Chain Management (IE Dual Degree) <br> 
 &emsp; <b>Data/AI-Driven Decision Support Systems: Theory and Practice</b>, Undergraduate core <br>
 &emsp; &emsp; 2027, 2028, 2029<br>
 &emsp; &emsp; Industry-University Collaboration and Innovation Course <br> 
@@ -55,6 +55,7 @@ layout: default
 <!-- <a href="https://www.timeshighereducation.com/cms-academic/sites/default/files/institution_downloads/2024-08/HUST%20Flyer.pdf">Qiming College</a> -->
 <!-- • Teach a combined class of two different majors（为两个不同专业的合班班级授课）
 • Deliver joint lectures to students from two majors（向来自两个专业的学生进行联合授课） -->
+<!-- Industrial Engineering -->
 
 
 
