@@ -70,6 +70,7 @@ layout: default
 <strong>Shanghai Jiao Tong University</strong><br>  
 &emsp; <b>Business Value of Information System and Its Management</b>, MBA elective (2021) <br>
 &emsp; <b>Electronic Commerce</b>, MBA elective (2021) <br>
+&emsp; <b>Computer Network and Application</b>, Undergraduate elective (2020, 2021, only as a grader) <br>
 &emsp; <b>Introduction to Electronic Commerce</b>, Undergraduate core (2020, 2021) <br>
 &emsp; <b>Marketing Analytics</b> (also known as Marketing Research), Undergraduate core (2019) <br>
 &emsp; &emsp; Two slots, including one <i>English-only</i> slot for international exchange students from the U.S., Europe, South America and Asia.<br>
