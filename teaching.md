@@ -26,8 +26,15 @@ layout: default
 <p><br></p>
 
 <p style="text-align: justify;">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Big Data:</b> Business Analytics and Data Science (Undergraduate)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>AI+Social Science:</b> AI Agents: Applications and Simulations (Undergraduate); Economics of AI (Ph.D. Seminar)<br></p>
+&emsp; <b>Big Data:</b> Business Analytics and Data Science (Undergraduate)<br>
+&emsp; <b>AI+Social Science:</b> Enterprise AI and Systems <br>
+&emsp;  • Intelligent Decisions; Ontology-Driven Enterprise Data Management for AI (Undergraduate); <br>
+&emsp;  • Generative AI and Digital Twins of Business Processes (Master); <br>
+&emsp;  • Economics of AI (Ph.D. Seminar).<br></p>
+
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+<!-- &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; -->
+<!-- AI Agents: Applications and Simulations -->
 
 
 
