@@ -32,6 +32,7 @@ layout: default
 <h4> • Journal Reviewer <h4>
   
 <p style="text-align: justify;font-weight: 50;">
+&emsp; Two Journals in the UTD24 List<br>
 &emsp; Information Economics and Policy (SSCI, JCR Q2, Renmin Journal Ranking A- in Economics Field)<br>
 &emsp; Decision Sciences (SSCI, JCR Q2, FMS-B)<br></p>
 
